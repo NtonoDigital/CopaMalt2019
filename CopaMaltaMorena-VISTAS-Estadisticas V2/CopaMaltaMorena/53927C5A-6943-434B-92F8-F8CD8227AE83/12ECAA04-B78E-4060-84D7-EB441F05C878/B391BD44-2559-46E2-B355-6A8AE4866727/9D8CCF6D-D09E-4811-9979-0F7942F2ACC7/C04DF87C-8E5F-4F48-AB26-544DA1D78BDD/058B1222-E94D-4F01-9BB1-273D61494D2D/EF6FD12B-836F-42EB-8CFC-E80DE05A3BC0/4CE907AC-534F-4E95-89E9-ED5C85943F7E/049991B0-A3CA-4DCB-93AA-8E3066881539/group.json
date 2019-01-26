@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "049991B0-A3CA-4DCB-93AA-8E3066881539",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3CB071F0-AE5E-4A01-9774-744F2B912E21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D210F77C-73C4-49FB-92B3-653824F553FE",
+    "height": 90.85,
+    "width": 100.05,
+    "x": 33.34999999999999,
+    "y": 29.9
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D0E04F97-5DEF-4DA3-B17A-8495593181A8"
+    },
+    {
+      "class": "bitmap",
+      "id": "D025250C-1EE2-44E6-8008-6853D2067451"
+    }
+  ],
+  "name": "Inner Shadow",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "42BCEE95-9C21-4FF8-8F83-80377F508859",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "3976D193-4427-4C9A-9518-6A1012866818",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8862745,
+          "green": 0.8745098,
+          "red": 0.8627451
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

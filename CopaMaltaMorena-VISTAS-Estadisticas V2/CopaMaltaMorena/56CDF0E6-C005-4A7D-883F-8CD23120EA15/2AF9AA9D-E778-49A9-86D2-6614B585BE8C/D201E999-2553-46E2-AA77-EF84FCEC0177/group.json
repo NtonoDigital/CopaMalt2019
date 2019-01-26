@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "D201E999-2553-46E2-AA77-EF84FCEC0177",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0740B452-3E0F-4BEE-9FF9-79FF16862AA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF17679F-2032-4632-BDFF-1730ED9F9C1B",
+    "height": 403,
+    "width": 778,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "442A8046-0FB6-45C4-9502-2C5EF4142AD1"
+    },
+    {
+      "class": "group",
+      "id": "C4C5FD60-FB79-48DE-9317-D40375F802BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CAE5F84-D736-4A49-8157-EAB46653BA33"
+    },
+    {
+      "class": "group",
+      "id": "9CA28D16-A125-448C-9AFF-F88C95356354"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05B412A9-131B-4BEF-8E73-82D044C5B416"
+    },
+    {
+      "class": "group",
+      "id": "6C7524BF-0253-4981-A6CB-D71310C60C83"
+    }
+  ],
+  "name": "Last Games Log",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72537324-05C8-45B7-9AED-982842003B41",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

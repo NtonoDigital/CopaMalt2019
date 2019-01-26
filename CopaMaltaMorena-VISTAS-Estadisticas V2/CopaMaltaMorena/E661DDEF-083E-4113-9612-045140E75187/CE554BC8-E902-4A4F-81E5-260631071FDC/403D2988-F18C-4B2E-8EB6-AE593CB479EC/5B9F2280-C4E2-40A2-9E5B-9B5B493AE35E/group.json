@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "do_objectID": "5B9F2280-C4E2-40A2-9E5B-9B5B493AE35E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE6770C8-8F3C-4089-A761-D5C6896B8A83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45BC1C22-828D-40EB-9A6E-9ECF85D66C2C",
+    "height": 791,
+    "width": 1349,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A1BE3367-CA32-492D-BBC4-1B8D9DE83E58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6EC75CFD-FB2F-4737-B68D-FCECC6A655B0"
+    },
+    {
+      "class": "group",
+      "id": "A179E15B-A8E9-47D2-BC17-156D2A561A86"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "96F5923C-C1F7-4BFD-9D0C-08AAF0EB6143"
+    },
+    {
+      "class": "group",
+      "id": "91A4F41C-4A21-4A3E-B60A-646F26A9FB7E"
+    }
+  ],
+  "name": "League Standings",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A1067DB2-C398-4849-896A-58B4BB5BCC4E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "C1BA4DEA-F6DB-417E-AF07-83A11032EC38",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

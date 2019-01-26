@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "DB0B5619-E9EB-4F25-9D6B-75C912FB18EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "572E2A02-D9BC-46F5-B40C-15DB0C833CFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B0F2225-87AD-473C-9B7A-CFBE67AFF47F",
+    "height": 59,
+    "width": 920,
+    "x": 92,
+    "y": 514
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1DC25CE7-E66A-4380-8410-4D37728E397E"
+    },
+    {
+      "class": "group",
+      "id": "88B94D9A-6A36-467E-8F40-F8DDDCB9B57E"
+    },
+    {
+      "class": "group",
+      "id": "DD91DF2C-9CC9-4890-9724-329CFAF9ECC8"
+    },
+    {
+      "class": "group",
+      "id": "CA1D765A-6D9D-4836-AA11-1691618C4DE1"
+    }
+  ],
+  "name": "Main Tab Options",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "988F195A-88F4-42B2-A3BA-B52FE10D76A5",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

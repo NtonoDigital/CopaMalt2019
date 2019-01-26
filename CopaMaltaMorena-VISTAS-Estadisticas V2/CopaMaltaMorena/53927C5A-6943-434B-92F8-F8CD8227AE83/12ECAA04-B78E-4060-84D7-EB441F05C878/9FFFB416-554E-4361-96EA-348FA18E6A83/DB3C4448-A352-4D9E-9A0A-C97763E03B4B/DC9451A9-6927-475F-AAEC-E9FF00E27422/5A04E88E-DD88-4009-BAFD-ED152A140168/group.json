@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "5A04E88E-DD88-4009-BAFD-ED152A140168",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A226E661-2C8F-47B0-94A4-B465BA277D7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EDFE29D-1F9C-4F2C-8000-B965696793A9",
+    "height": 33.34999999999999,
+    "width": 181.7,
+    "x": 234.6,
+    "y": 3.45
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AEB083A9-6479-4B24-957E-CAAAB2108C5A"
+    },
+    {
+      "class": "text",
+      "id": "2326FC1D-6B41-4E80-9ACE-9F292964CAE3"
+    },
+    {
+      "class": "text",
+      "id": "999F2DA8-2C5C-4091-A794-34465BC63320"
+    },
+    {
+      "class": "text",
+      "id": "7CCC953E-2638-43DE-83D6-5CECD5C21104"
+    }
+  ],
+  "name": "Numbers  copia",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7F2ED3FA-67A0-4685-A588-0CEFF5C2D4C3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "0AB5E04E-DA54-4439-8DCB-D51FD560199B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "5C5DCA5E-31D4-4268-9144-A60D251F2715",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B576315F-61D2-440A-94BF-7FE7564DFBEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D55A115-9B86-437C-B3B9-4CE19DE61C80",
+    "height": 56.34999999999999,
+    "width": 101.2,
+    "x": 124.2,
+    "y": 5.75
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5DE02752-0136-42F4-8A44-6F78ECA0D779"
+    },
+    {
+      "class": "text",
+      "id": "C083772E-4A74-4591-91D6-3353F52BB2D5"
+    }
+  ],
+  "name": "Over Tooltip",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DBE07C35-ED5A-47BA-BCF0-A884562657D8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "F73902F0-D7D4-4309-B10F-BF47BC69635E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

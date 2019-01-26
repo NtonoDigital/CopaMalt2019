@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "1617AF24-DD9A-4A91-80DB-060F86351560",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38028A01-8077-456D-ADFC-6A0DDCC41B82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F155FEE8-9EB6-4084-A987-102731100BAF",
+    "height": 52.9,
+    "width": 438.15,
+    "x": 1.15,
+    "y": 476.1
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E964CF2E-91B1-4FF0-A5C9-7C25E4BC0F14"
+    },
+    {
+      "class": "group",
+      "id": "17669824-64AD-450D-BDF4-8631882C6E3F"
+    },
+    {
+      "class": "group",
+      "id": "B1DC909A-51EA-4245-9A80-5D1A5FA52CD6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40057FCF-2337-4BF5-AE8A-98D09359FFF8"
+    }
+  ],
+  "name": "Team 06",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C73ECFF5-8971-4338-9BB9-C0B8ED8AA06E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "0F3AC761-6369-4FB0-A076-31575A128876",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

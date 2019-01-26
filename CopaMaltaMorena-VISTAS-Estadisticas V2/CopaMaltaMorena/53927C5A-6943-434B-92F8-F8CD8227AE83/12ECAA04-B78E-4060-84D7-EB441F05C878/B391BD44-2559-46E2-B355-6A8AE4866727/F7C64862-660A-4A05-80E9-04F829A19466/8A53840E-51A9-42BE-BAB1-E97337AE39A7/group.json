@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "8A53840E-51A9-42BE-BAB1-E97337AE39A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FDE5D0B-DB4C-4FF3-AF60-C47AE676C410",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A01F2863-7739-499E-BE86-712AFF33E295",
+    "height": 44.84999999999999,
+    "width": 44.84999999999999,
+    "x": 351.9,
+    "y": 253
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EAC53E96-965A-437E-9FD9-FD8A078C228A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C18274BC-1A08-4DA1-9D61-746836956C70"
+    }
+  ],
+  "name": "Right Arrow",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4864BB3E-72EB-46F6-8648-4994996802F7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "598C997F-D342-48AC-AEC2-28B96856B5B7",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

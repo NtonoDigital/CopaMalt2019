@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "28B65AC4-F983-4798-9918-C5D0F5B858A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A32591A-7786-4F72-82BB-62317F56421E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B823445B-48FD-481D-9449-4288AB74349A",
+    "height": 42,
+    "width": 381,
+    "x": 0,
+    "y": 157
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D0F26BCE-F6AD-4A1A-8A34-C4840D314809"
+    },
+    {
+      "class": "group",
+      "id": "831367F7-70E5-46BC-8A69-70AAACF1E933"
+    }
+  ],
+  "name": "Row 04",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09771B21-58F5-4E86-8888-5041CBFB63A6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

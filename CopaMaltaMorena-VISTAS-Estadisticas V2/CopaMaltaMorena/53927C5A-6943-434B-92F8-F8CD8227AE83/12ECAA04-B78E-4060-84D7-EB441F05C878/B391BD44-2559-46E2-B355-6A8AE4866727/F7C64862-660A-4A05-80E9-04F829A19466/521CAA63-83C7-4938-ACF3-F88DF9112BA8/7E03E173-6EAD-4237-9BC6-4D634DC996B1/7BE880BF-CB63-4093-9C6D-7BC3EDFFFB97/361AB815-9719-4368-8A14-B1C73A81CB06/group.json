@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "361AB815-9719-4368-8A14-B1C73A81CB06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93C0B544-BA60-4215-8FE1-F74A71037655",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C05EF8D0-10C6-4A2E-9524-DE62D7B4B6CE",
+    "height": 209.3,
+    "width": 146.05,
+    "x": 0,
+    "y": 20.7
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1A17F296-3EBE-4FCB-9F73-B90E7662E5CE"
+    },
+    {
+      "class": "group",
+      "id": "72A4BA6E-B16A-4759-BF0E-9782DF2F5AB3"
+    }
+  ],
+  "name": "Trophy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4F51907A-F4D2-490B-96C4-E777471F1653",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "6A72E3BC-94A5-440B-971E-15D204DDA0E6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

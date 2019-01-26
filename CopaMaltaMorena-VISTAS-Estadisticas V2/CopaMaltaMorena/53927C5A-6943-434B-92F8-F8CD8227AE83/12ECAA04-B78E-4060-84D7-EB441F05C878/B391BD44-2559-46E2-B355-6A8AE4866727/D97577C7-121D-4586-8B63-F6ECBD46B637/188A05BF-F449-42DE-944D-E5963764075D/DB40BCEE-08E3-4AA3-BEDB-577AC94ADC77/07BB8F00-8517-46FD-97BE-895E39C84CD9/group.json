@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "07BB8F00-8517-46FD-97BE-895E39C84CD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F79ECEF2-F0C3-463B-AE8C-9A1DD921A8C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79F1B7D2-854D-4809-B096-1E8FEE9CB3F3",
+    "height": 33.34999999999999,
+    "width": 207,
+    "x": 35.65,
+    "y": 154.1
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6E5132CD-289A-42AF-BBD8-27A8566CE229"
+    },
+    {
+      "class": "group",
+      "id": "67205FBC-AB34-42C9-99AA-4E6AABEA2E97"
+    },
+    {
+      "class": "text",
+      "id": "16304F55-50C8-4284-8BF9-82083F4ED021"
+    }
+  ],
+  "name": "Total Shots",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "78E3EB70-AED9-4701-9565-7448A16A8414",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "EC20263D-61D8-420F-8052-AA332F23BA15",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

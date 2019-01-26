@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "51DE83B7-499E-4737-A4D1-E1D2EA41DEF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7D77F6E-67F5-46FD-9D86-6ED3C7B23D37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31ABE72C-46FC-4CC4-BD67-86EF97F3AAA4",
+    "height": 13,
+    "width": 17,
+    "x": 1293,
+    "y": 164
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "93425296-F00B-47B8-802B-5420EF6D4577"
+    },
+    {
+      "class": "rectangle",
+      "id": "C9345218-52C2-44F8-AD42-9A2E326FBB43"
+    },
+    {
+      "class": "rectangle",
+      "id": "33E90B3C-E971-4421-81F8-70280DE470A3"
+    }
+  ],
+  "name": "burger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "64E18C2A-A98E-4A2E-A69B-EDDC2095A57E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

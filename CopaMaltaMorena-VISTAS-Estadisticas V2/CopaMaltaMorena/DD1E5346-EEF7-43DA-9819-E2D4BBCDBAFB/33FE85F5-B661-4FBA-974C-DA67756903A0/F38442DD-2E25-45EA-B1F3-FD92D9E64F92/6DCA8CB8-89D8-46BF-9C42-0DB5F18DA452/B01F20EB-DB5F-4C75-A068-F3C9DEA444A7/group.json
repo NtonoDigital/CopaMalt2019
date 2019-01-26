@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "B01F20EB-DB5F-4C75-A068-F3C9DEA444A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EEDC7FD4-EDA3-4719-8E81-068718BD3EC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D8A4DE6-CB76-4438-9D3B-32FAD5300A35",
+    "height": 96,
+    "width": 325,
+    "x": 119.405797101449,
+    "y": 0.4516640253568767
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "394EACE7-3AFA-42B5-AD74-7EAE9FA94AD2"
+    },
+    {
+      "class": "bitmap",
+      "id": "37EADC5C-D9D0-4D9D-9F65-AD04E3C279F7"
+    },
+    {
+      "class": "text",
+      "id": "56863B11-CB97-4611-8227-04E6ED61598E"
+    },
+    {
+      "class": "text",
+      "id": "41949DEC-1F50-4563-B3E4-B639481C0092"
+    }
+  ],
+  "name": "Team  ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C6B88587-EF47-40C5-BE30-ACED6B12BCC5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "B9EE26B5-E505-47DE-B84B-DD350D1B84BD",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

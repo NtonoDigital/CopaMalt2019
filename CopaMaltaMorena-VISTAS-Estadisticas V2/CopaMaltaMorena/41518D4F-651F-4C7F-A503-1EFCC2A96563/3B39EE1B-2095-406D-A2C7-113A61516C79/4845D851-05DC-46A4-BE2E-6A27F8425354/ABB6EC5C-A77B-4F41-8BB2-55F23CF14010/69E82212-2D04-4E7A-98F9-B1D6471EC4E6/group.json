@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "69E82212-2D04-4E7A-98F9-B1D6471EC4E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6033539-39E2-4252-A6B8-A5BB7846F514",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EE302D8-D38F-46F3-9EFB-D00D92F95C67",
+    "height": 24,
+    "width": 212,
+    "x": 0,
+    "y": 169
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BB1636E8-6C81-4B24-A9E0-22D5CA274CDE"
+    },
+    {
+      "class": "text",
+      "id": "D0B14909-B112-40AC-AF81-3C549B9C8EEB"
+    },
+    {
+      "class": "group",
+      "id": "6BB91C3B-8C68-4A42-B60B-301FDC03544C"
+    }
+  ],
+  "name": "Pass Accuracy ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "525C8881-D535-4166-A832-8868A3DD6402",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

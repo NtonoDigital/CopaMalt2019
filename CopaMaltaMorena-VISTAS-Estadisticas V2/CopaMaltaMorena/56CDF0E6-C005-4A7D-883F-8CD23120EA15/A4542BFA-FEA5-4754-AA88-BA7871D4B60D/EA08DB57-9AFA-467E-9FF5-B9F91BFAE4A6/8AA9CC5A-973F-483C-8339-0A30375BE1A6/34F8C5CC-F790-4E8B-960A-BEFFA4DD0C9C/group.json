@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "34F8C5CC-F790-4E8B-960A-BEFFA4DD0C9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67A11955-7444-41AF-8E14-FF5D4F685701",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BF36B48-B8DC-40C1-AB8E-B84A74CA6920",
+    "height": 77,
+    "width": 142,
+    "x": 0,
+    "y": 102
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3AEC8F25-1261-4FD5-B0AA-CFB9D8820662"
+    },
+    {
+      "class": "text",
+      "id": "4A33EA31-AFDB-4FAA-A30C-F26F0DD8EB05"
+    },
+    {
+      "class": "text",
+      "id": "0717FF46-E562-4EFF-87CE-2DA9AF29C9B9"
+    }
+  ],
+  "name": "Row 03",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00EA4B80-3294-4EC0-A0D6-7FCFDDB9B4EB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

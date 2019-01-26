@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "23D80B6F-158C-45AB-864C-11125F59056C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9883A43F-A3C9-41DD-AECD-16E1BDADA6C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DDEA057-ABE5-4234-9CCE-3067058DB403",
+    "height": 30,
+    "width": 151,
+    "x": 620,
+    "y": 25
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0EE13DCA-1F79-4CAB-9BC1-677E6BD89C38"
+    },
+    {
+      "class": "text",
+      "id": "81237C43-E589-4517-91E9-8AA7798BA67F"
+    }
+  ],
+  "name": "All News Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "150D8848-0192-4C75-8A0B-40DC3EB7BEEF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

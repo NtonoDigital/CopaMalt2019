@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "CC4C8CA8-2DC6-4C89-89E4-63D5E4487CE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C98BF03-16B6-417D-8C85-E362D8EBD7E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A243C0C8-4C51-43C6-8342-ECC830A29697",
+    "height": 34.5,
+    "width": 149.5,
+    "x": 700.3499999999999,
+    "y": 2.3
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8EAAF3EB-6AAE-4102-96D4-BB581A7FEC12"
+    },
+    {
+      "class": "text",
+      "id": "78BC3798-C252-4ABE-B34B-E3EDF532D89B"
+    }
+  ],
+  "name": "Buy Tickets Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "648154E7-5154-4407-81C9-689F80B1DC80",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "1C987DEC-CD4D-41C4-9D08-24A5C08B41ED",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

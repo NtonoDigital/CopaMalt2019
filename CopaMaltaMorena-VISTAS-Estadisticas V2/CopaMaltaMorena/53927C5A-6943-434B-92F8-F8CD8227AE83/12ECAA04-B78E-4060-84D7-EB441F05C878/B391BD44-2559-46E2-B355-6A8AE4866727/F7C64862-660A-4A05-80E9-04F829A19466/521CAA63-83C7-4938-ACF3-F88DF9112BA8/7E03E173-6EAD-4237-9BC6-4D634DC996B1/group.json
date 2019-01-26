@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "7E03E173-6EAD-4237-9BC6-4D634DC996B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02351F18-2540-462F-8751-008827DF7808",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A691E2A-10C0-4CF6-83C1-5E3774A73DB8",
+    "height": 230,
+    "width": 175.95,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "376B661B-4744-4DD2-B24F-6D0F890E2AE8"
+    },
+    {
+      "class": "group",
+      "id": "7BE880BF-CB63-4093-9C6D-7BC3EDFFFB97"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7BED7B1-BD19-4F30-B815-B7CF5CD648FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E523401D-406F-44ED-83A3-3770E5BCEB67"
+    }
+  ],
+  "name": "Trophy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E692B472-79FA-4B63-9BB0-21A451B3EE3D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "43291546-0EEB-49A6-B707-10552A752115",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

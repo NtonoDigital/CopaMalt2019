@@ -1,0 +1,72 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C609CAB8-07CA-4735-8F23-842149A95EB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F13AE88-5CF5-45F0-96E1-D41CDCBEA0C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60E10A2D-2C61-4FB3-9096-38F7EAF8CEA5",
+    "height": 732,
+    "width": 1500,
+    "x": 1,
+    "y": -30
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/64510f86792a85774f63cb82f59f2e8b8fcbd7cd",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Background Photo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "E4D75903-46C7-444D-A9D7-A26D726BB972",
+      "opacity": 0.1
+    },
+    "do_objectID": "501691C8-87C1-4CAF-8FFB-EABCBED3BA1D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

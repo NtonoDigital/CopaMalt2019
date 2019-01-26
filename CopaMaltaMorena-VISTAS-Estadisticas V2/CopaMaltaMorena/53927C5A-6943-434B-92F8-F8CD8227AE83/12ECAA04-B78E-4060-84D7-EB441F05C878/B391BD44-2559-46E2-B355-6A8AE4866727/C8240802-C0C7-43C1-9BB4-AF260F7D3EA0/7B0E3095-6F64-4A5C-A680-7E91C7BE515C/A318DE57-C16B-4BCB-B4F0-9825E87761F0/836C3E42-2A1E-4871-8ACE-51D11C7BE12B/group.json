@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "836C3E42-2A1E-4871-8ACE-51D11C7BE12B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1EFED9D-00FA-4568-BE74-29ACC3C56ACD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB0A206E-42B3-4A74-A178-DF78E760C918",
+    "height": 34.5,
+    "width": 129.95,
+    "x": 700.3499999999999,
+    "y": 2.3
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8EE7B64D-AEB8-4E23-A2FE-31E95E732456"
+    },
+    {
+      "class": "text",
+      "id": "E63B1B0F-AD9F-403D-80E9-A8EBE89511DE"
+    }
+  ],
+  "name": "Sold Out Button copia",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4065EA4A-9140-4396-A7F6-7355FC7A0947",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "52F48AF9-A4EF-4917-9B8A-9FBDFADBEE2E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

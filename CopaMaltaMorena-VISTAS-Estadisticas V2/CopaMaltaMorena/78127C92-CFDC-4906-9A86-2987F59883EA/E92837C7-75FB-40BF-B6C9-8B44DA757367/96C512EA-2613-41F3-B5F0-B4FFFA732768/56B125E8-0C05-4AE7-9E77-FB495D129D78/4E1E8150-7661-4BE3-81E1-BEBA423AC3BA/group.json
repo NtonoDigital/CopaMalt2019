@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "4E1E8150-7661-4BE3-81E1-BEBA423AC3BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D64345F-862D-49F4-A60B-7B9432EDE9F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E87E7BD8-4426-4ECF-BFAD-EC1FFE44B06F",
+    "height": 32,
+    "width": 303,
+    "x": 0,
+    "y": 170
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E14B7579-94EA-48FC-B8DC-7697732DA658"
+    },
+    {
+      "class": "group",
+      "id": "E10B1A7F-7DCC-4699-A777-4C1353B3EDBD"
+    },
+    {
+      "class": "text",
+      "id": "333E3406-3978-420F-8BC4-E42C68B252B7"
+    }
+  ],
+  "name": "Dribble",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBCE8541-163A-4ADB-98BA-8E7BDC310D2B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

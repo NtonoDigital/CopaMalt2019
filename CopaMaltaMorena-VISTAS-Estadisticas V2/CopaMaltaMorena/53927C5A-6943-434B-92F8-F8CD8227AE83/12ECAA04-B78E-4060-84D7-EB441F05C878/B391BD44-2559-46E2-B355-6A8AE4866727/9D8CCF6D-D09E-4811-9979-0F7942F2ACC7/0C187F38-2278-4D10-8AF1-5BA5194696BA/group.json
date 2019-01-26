@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "0C187F38-2278-4D10-8AF1-5BA5194696BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A539C6ED-6A5F-409F-B3D5-CB28B788B554",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CF601B9-4611-4073-B33C-E97727883CB1",
+    "height": 515.1999999999999,
+    "width": 438.15,
+    "x": 1.15,
+    "y": 83.94999999999999
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD9614AE-06C7-4573-BF9C-9328DC48CB8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2118BA63-3949-414F-A34E-9F2602614169"
+    }
+  ],
+  "name": "Box Dividers",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "99BD0384-5ECC-4DE5-B237-B980025125F2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "4B8E5241-63D5-42AF-A274-B98CD8FE2E99",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

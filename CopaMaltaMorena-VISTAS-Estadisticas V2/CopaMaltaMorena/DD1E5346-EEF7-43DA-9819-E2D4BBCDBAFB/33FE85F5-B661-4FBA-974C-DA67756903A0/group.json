@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "33FE85F5-B661-4FBA-974C-DA67756903A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31F6A6AA-3865-4252-A882-391E3CDE9728",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F841B5A0-71BA-41EA-87C5-5EDFACDAF189",
+    "height": 1110,
+    "width": 1349,
+    "x": 46,
+    "y": 663
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4DC1FEB9-0343-4B61-8444-9ACC45969B6E"
+    },
+    {
+      "class": "group",
+      "id": "8038EFDB-D10C-4822-B80A-59555C0EF481"
+    },
+    {
+      "class": "group",
+      "id": "F38442DD-2E25-45EA-B1F3-FD92D9E64F92"
+    }
+  ],
+  "name": "Schedule & Tickets",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7505C21C-FC84-421D-9671-75691CB08994",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "22F61D14-B414-4428-9AAE-63ADB2E6862A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

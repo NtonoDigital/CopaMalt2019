@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "BD3EDAA0-F080-4774-B143-55F1110AFCE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B7D6A1E-4F5D-4905-80C7-82B6B3A794EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3BC947F-C791-42B0-9112-9843395DD851",
+    "height": 57,
+    "width": 251,
+    "x": 95.44999999999999,
+    "y": 416.3
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DEABDB7F-788D-4C3C-9858-442AAD20B2EF"
+    },
+    {
+      "class": "text",
+      "id": "E5EF3279-6612-48C8-8661-73D091CCB4BA"
+    }
+  ],
+  "name": "Award Title and Date",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "16B84EED-8667-40DA-B5EA-0D55BAB7A290",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "448F53FF-71EC-4B15-9A7B-B27E79607626",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

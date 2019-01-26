@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "99D210A7-2EA5-415D-B426-CAEF6062B978",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16FE030A-44D0-4E69-87BF-B385AAF0F922",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8716388A-8BB3-4685-ACD3-AA9F4C7EDEBA",
+    "height": 21.85,
+    "width": 21.85,
+    "x": 27.6,
+    "y": 8.049999999999999
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B3C19E7-3488-461E-9291-E02A9DDA5466"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0E4C2A2-5F2C-4740-AEDA-FC8428DBFDF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4330FC3-F0B6-482D-BE97-772C1220BCED"
+    }
+  ],
+  "name": "Injury Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FAB49A38-9ABF-4485-8397-5769269D298F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "E4C70960-DCC3-4B41-B670-B1BB2B83C613",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "0281D773-88C8-49F4-AA3F-F4A4899CDFBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3272D8DD-93B1-47A3-AF8B-26DB43C009D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4527DD6A-81B2-4346-AF4C-35F6F6D45CF4",
+    "height": 9.2,
+    "width": 111.55,
+    "x": 17.25,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9B74F99F-860E-42DD-872A-C2CEE819D026"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2B86637-1378-4929-8AD6-BF9A8EFE5348"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59E71D94-DE52-4D99-8D3D-146AA5BB96E5"
+    }
+  ],
+  "name": "Cup Top",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E0003118-EDBC-47A9-8A76-9AD401D96D24",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "AAD0F85C-CB0A-43B6-9E45-05CA8B507EE4",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "_class": "group",
+  "do_objectID": "DB3C4448-A352-4D9E-9A0A-C97763E03B4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A1D957F-C08D-4F59-B56A-37C945CF0095",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "095CB9E3-A52F-4023-9F47-FC186B607F12",
+    "height": 661,
+    "width": 441,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "119714A8-8DDA-42DF-8647-47E3C081D19B"
+    },
+    {
+      "class": "group",
+      "id": "A679CD23-E733-4AEE-B969-1E0BF4B04BDF"
+    },
+    {
+      "class": "group",
+      "id": "FD68CDE3-0D6D-4A68-B9FE-3FE633DFF0A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C77CBEC1-932C-4810-AFC9-65225C263F3A"
+    },
+    {
+      "class": "group",
+      "id": "745604F6-3737-4BDC-9E51-65E2B8D2E1C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA2F0A16-CCC4-4DBE-8529-97B37274675D"
+    },
+    {
+      "class": "group",
+      "id": "2696A6D2-0EC7-40E2-B98F-E5A16429CCCD"
+    },
+    {
+      "class": "group",
+      "id": "B966E1D7-06AC-4C96-AE14-420B180E165B"
+    },
+    {
+      "class": "group",
+      "id": "31588B14-7F02-4342-A800-9888DD3AEA3B"
+    },
+    {
+      "class": "group",
+      "id": "8097C1CD-1E01-4615-82AD-9C4A99C68B03"
+    },
+    {
+      "class": "group",
+      "id": "814F4FCB-CF5F-4CAA-B577-F2456DC9834C"
+    },
+    {
+      "class": "group",
+      "id": "1617AF24-DD9A-4A91-80DB-060F86351560"
+    },
+    {
+      "class": "group",
+      "id": "D2192711-F4AD-48D8-9193-727844084275"
+    },
+    {
+      "class": "group",
+      "id": "DC9451A9-6927-475F-AAEC-E9FF00E27422"
+    }
+  ],
+  "name": "West League 2016",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C29E9CD5-1794-420D-A839-A8C05C3F8CBD",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "2AE177DF-E166-4ED5-897B-EF73DD99A1DC",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

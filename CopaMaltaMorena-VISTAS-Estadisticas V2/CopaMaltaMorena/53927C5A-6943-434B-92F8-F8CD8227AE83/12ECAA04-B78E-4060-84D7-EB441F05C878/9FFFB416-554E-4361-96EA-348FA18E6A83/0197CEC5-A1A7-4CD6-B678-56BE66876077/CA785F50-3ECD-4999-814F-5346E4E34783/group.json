@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "do_objectID": "CA785F50-3ECD-4999-814F-5346E4E34783",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD25CBC9-20BA-48DF-A7CC-9D9BCE04CFF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F63B27E2-B1CA-417C-82CC-8ADE1F8B3F48",
+    "height": 87,
+    "width": 381,
+    "x": 1.15,
+    "y": 388.7
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B58A0D07-3581-4BA5-B1E6-78B9B327A2F2"
+    },
+    {
+      "class": "group",
+      "id": "F587101E-69D0-4041-B909-733F44901D87"
+    },
+    {
+      "class": "group",
+      "id": "C6F14177-A25C-4BD5-A703-6759FD071035"
+    },
+    {
+      "class": "group",
+      "id": "CA3BDAC8-FCA9-4B26-9D3B-385DD7CBBAB3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FBC2B709-DCA7-4C12-8323-DDDD6945486B"
+    }
+  ],
+  "name": "04",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "76E70F8A-E3F0-44AB-B7FB-E6E180319D01",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "B3392C4A-4880-41C9-B312-7AFBD28E63C2",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

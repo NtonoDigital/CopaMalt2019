@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "521CAA63-83C7-4938-ACF3-F88DF9112BA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2304B9A1-AA1B-4A3A-ADAA-2F194C227057",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4342315A-421B-4910-9D5F-5D773CD86AE9",
+    "height": 230,
+    "width": 175.95,
+    "x": 132.25,
+    "y": 141.45
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7E03E173-6EAD-4237-9BC6-4D634DC996B1"
+    }
+  ],
+  "name": "Trophy Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F3161C1A-B9F0-4E91-9671-83AB67666879",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "BE9D32F4-CE53-430E-BFB2-4B418818C99E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

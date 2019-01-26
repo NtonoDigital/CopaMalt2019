@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "22DA3260-C87D-4CF5-8873-21743411BE55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78A0E334-12CA-47CB-981B-3493FC72A01C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FCB1A77-54B9-4B32-9EA9-9858EFEDC9C0",
+    "height": 32,
+    "width": 151,
+    "x": 398,
+    "y": 129
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0786A4CC-77A0-4438-B0BE-30856F9A1602"
+    },
+    {
+      "class": "text",
+      "id": "905B8EA7-5894-48C6-81BE-0E4281B271D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E4E9FEA-B233-4A7B-83AF-D3B6462A1C88"
+    }
+  ],
+  "name": "FAVORITO-BTN",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1516323D-EEE2-4E11-A75A-476D6216062A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

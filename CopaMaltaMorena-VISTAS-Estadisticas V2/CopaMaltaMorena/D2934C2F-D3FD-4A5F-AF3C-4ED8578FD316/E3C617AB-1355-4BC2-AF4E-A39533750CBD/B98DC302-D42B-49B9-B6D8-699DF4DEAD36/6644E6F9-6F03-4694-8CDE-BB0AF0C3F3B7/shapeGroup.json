@@ -1,0 +1,67 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6644E6F9-6F03-4694-8CDE-BB0AF0C3F3B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F76C5C38-5C3A-49AB-B126-517302C3868B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91D3A7CF-D013-4F22-801B-0E65DEF1AD6E",
+    "height": 1124.667,
+    "width": 1,
+    "x": 417.9012720000001,
+    "y": 0.5399999999999636
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E2A5F1FD-906D-48D6-B8B4-A73348E78CBF"
+    }
+  ],
+  "name": "Stroke 3013",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.6043000000000001,
+          "blue": 0.7379855,
+          "green": 0.7379855,
+          "red": 0.7386267
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1.2
+      }
+    ],
+    "do_objectID": "0F89EC64-834D-4D63-8506-14F457F88A0D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

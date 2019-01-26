@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "EA08DB57-9AFA-467E-9FF5-B9F91BFAE4A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "012009DD-C28D-439A-8F87-1FCE71389811",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "479D68AF-383D-4FC7-ACC1-1917EA2F4CAE",
+    "height": 403,
+    "width": 1502,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F2EE6AE4-DE1F-4EE6-989F-E32714AF57D1"
+    },
+    {
+      "class": "group",
+      "id": "05098899-63DC-4C58-8ADD-C184A6801DBF"
+    },
+    {
+      "class": "group",
+      "id": "04FD5FEB-7D1F-4CA0-A878-B77AE8B63201"
+    },
+    {
+      "class": "group",
+      "id": "8AA9CC5A-973F-483C-8339-0A30375BE1A6"
+    },
+    {
+      "class": "group",
+      "id": "632B1863-A9D3-47D2-8E11-86853F87695F"
+    },
+    {
+      "class": "group",
+      "id": "813504AD-A483-4892-9C33-D3EE2FA00204"
+    }
+  ],
+  "name": "Player Main Header",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AF7002F-6A9F-45D2-A8C6-2471C3227A65",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "CDE6FCA0-0E18-4B13-ABA6-B6A7C0D32472",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "628D23A0-B3A7-4D05-8B52-45B702080084",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28280162-265C-468E-8B50-B2B0F0EEB876",
+    "height": 60.95,
+    "width": 60.95,
+    "x": 23,
+    "y": 23
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED95F180-FFEB-407D-A363-0E4C78619233"
+    },
+    {
+      "class": "group",
+      "id": "3C496AB9-2B06-416E-89C4-6B2A3C4EF0F9"
+    }
+  ],
+  "name": "Soccer Ball",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8A7DF9C9-B05D-4829-AA06-7929090C7E39",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "2FC86894-2D0A-4CF7-95DE-BA967E7332DF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

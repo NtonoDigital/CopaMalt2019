@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "F95646CC-964F-4989-A07B-679982B885C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F975C19-2C4B-45AA-8527-51EFBD0E7B8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF05E621-CD11-46C1-AB25-22192A7C3E84",
+    "height": 28.75,
+    "width": 50.59999999999999,
+    "x": 17.25,
+    "y": 9.2
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "04D46A27-5D9B-420B-B5E4-5A22B95554AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1190A43B-BCC7-4F1A-B3E7-FFA89C0AD56E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45BCB67D-F28F-4937-9EE7-787ECB2DC04F"
+    }
+  ],
+  "name": "Plaque",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8E25F255-1CD5-433F-A4C6-9E7CEDDBDB84",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "C80D5835-A901-4FE3-B909-D02A67443CA5",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

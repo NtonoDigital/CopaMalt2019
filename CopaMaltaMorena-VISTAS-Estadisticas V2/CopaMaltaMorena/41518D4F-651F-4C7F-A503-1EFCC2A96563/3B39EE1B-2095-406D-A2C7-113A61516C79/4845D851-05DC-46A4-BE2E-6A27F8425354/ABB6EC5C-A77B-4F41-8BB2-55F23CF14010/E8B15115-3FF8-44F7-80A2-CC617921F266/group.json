@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "E8B15115-3FF8-44F7-80A2-CC617921F266",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A48CA47-6ADD-4F81-A465-DC8CF683E6FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E3C1E6F-DB88-4F46-97E8-BC3B8F614C0E",
+    "height": 14,
+    "width": 18,
+    "x": 170,
+    "y": 277
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A373B356-77E9-4ADF-92A5-49FF6F5EDD79"
+    }
+  ],
+  "name": "Twitter Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D969BE5C-99F1-4083-9C3F-684042F913FA",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

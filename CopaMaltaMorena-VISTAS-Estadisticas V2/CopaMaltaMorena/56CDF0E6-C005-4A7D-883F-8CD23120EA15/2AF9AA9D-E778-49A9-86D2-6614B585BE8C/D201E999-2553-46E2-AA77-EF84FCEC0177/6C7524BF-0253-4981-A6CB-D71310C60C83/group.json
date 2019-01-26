@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "6C7524BF-0253-4981-A6CB-D71310C60C83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A32FE15-291B-42E0-95FB-74FC76902576",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B79BF1E8-C08D-4488-AF11-8A048956E11D",
+    "height": 263,
+    "width": 778,
+    "x": 0,
+    "y": 129
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "49E94606-EDB7-4CA5-82B4-7A45169ECD38"
+    },
+    {
+      "class": "group",
+      "id": "06E17F1C-7A3F-4445-BB44-A65506E817B0"
+    },
+    {
+      "class": "group",
+      "id": "3B0D0C9D-E2B6-47E5-9E6F-422731D29908"
+    },
+    {
+      "class": "group",
+      "id": "5B09AA58-E594-4C3F-BC82-85E40599D352"
+    },
+    {
+      "class": "group",
+      "id": "015565CE-F8DD-4337-9B36-5FD0852DD43D"
+    }
+  ],
+  "name": "Log Items",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E9DCD99-FEAA-483F-AA23-A4C43212EB0B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

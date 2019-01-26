@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "2ACE3DE6-2940-4B72-8C89-658D33ED8F92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8273AC3E-0979-48E8-A079-422A38028321",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "680BB398-33D8-4D58-B1F6-CA9B70007DC0",
+    "height": 34.5,
+    "width": 173.65,
+    "x": 713,
+    "y": 28.75
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "84A9574B-25DC-493B-8F90-3BB6E346BCB7"
+    },
+    {
+      "class": "text",
+      "id": "32BF7A48-C1F8-4666-B252-C6E4FC672B40"
+    }
+  ],
+  "name": "Complete Roster Button ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "529E7422-3BD6-4DBB-9424-07DC105BC95E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "B76C3E6B-3DBD-46AF-8916-31CA81C28662",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

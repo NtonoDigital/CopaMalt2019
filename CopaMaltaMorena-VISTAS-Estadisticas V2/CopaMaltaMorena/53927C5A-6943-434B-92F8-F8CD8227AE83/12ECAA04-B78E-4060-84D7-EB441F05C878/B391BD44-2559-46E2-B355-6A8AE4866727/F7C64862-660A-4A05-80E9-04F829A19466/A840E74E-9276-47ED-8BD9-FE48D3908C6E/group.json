@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "A840E74E-9276-47ED-8BD9-FE48D3908C6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E5A0E68-C85F-42BE-B863-6A737588C70C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82D4C2F9-A671-4079-8066-0B210E15D9E5",
+    "height": 14.95,
+    "width": 60.95,
+    "x": 189.75,
+    "y": 546.25
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B77B434-66C1-4EA8-90A9-A6DD780798D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "947A821E-99A7-4518-BCD3-A39E58DC21B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC44B7AF-FBED-4BDD-A3FB-F2733C5BA0FD"
+    }
+  ],
+  "name": "Slider Circles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E9DEF712-B699-4B11-9703-7A0F4A8771F2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "87AFC676-AA3B-4109-BB83-495EFFCC4F73",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

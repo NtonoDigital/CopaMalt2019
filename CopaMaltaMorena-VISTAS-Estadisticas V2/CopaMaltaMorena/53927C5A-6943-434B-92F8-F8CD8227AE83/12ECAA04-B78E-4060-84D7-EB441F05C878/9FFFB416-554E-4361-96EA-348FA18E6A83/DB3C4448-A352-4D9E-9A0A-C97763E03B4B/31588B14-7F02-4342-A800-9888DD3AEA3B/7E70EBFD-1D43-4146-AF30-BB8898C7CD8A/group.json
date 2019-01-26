@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "7E70EBFD-1D43-4146-AF30-BB8898C7CD8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DA72BC8-3387-47B6-B8CF-C8D912E0793C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B05C3FCD-8BFF-45CE-B07D-580BA663A241",
+    "height": 33.34999999999999,
+    "width": 185.15,
+    "x": 234.6,
+    "y": 3.45
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0FAC3FBF-DA6A-4BCF-A86B-71DCD0D334B7"
+    },
+    {
+      "class": "text",
+      "id": "A5E57616-E0B8-41CA-BA57-4DDC7B171B56"
+    },
+    {
+      "class": "text",
+      "id": "66A8688C-31F4-4580-95F3-F0A12CD08F60"
+    },
+    {
+      "class": "text",
+      "id": "70E18536-ED31-4281-BC6F-386789FEBB3E"
+    }
+  ],
+  "name": "Numbers ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1DDD0F4A-EC82-46FE-86EE-02AEE40FA55F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "295E0A0A-A6CC-4F96-AD44-5E52AC02AC5C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

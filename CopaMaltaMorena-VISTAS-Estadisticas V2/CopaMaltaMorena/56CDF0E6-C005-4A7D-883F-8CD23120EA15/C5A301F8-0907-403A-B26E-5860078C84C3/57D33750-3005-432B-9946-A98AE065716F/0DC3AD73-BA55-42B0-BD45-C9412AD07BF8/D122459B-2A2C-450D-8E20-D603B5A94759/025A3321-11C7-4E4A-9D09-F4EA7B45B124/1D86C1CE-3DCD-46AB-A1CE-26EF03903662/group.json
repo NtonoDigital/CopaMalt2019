@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "1D86C1CE-3DCD-46AB-A1CE-26EF03903662",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A642903C-1689-42A0-B013-1FA0555FAE0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DA83FDF-2CE0-4A65-AA5E-72C29703F703",
+    "height": 9,
+    "width": 8,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BA6BC1AD-95E7-4310-9F27-9C4FB9F62413"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9B293F6-2486-436D-94AC-8535507B6347"
+    }
+  ],
+  "name": "Cup Top",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B318CE53-70AD-45C1-86FB-0399D32C76C1",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

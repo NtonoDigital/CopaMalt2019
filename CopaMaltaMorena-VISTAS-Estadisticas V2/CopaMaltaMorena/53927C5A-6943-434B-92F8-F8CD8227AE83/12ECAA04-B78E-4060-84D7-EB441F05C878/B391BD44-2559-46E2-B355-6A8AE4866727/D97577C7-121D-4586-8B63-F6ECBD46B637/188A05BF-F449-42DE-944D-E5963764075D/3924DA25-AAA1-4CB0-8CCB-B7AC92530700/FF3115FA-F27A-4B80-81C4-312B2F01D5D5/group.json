@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "FF3115FA-F27A-4B80-81C4-312B2F01D5D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8337D25-4199-41EC-B14A-95B8B5C4FC43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BD6688D-05F8-4463-8A38-59F650A6113F",
+    "height": 33.34999999999999,
+    "width": 205.85,
+    "x": 0,
+    "y": 182.85
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F360CB93-0ACF-456C-8511-D797CBB8F868"
+    },
+    {
+      "class": "group",
+      "id": "49B62B81-6242-4866-AA2E-112981F58BF9"
+    },
+    {
+      "class": "text",
+      "id": "949A4263-A51E-4D02-8D19-0A688E330598"
+    }
+  ],
+  "name": "Fouls",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "19A08AF1-0D3F-4C63-9314-D1751711F38B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "4C9FF284-5433-437F-B012-70EC0243BC98",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
