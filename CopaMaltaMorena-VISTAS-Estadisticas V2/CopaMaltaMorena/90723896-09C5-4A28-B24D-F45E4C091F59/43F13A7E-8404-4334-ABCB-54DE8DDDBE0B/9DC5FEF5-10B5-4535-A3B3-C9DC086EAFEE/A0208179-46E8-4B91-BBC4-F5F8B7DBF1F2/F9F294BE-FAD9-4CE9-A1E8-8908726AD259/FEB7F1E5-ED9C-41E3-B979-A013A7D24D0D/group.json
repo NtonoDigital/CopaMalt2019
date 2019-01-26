@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "FEB7F1E5-ED9C-41E3-B979-A013A7D24D0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E32FEEF6-5A10-46FB-ABB2-256178FC3334",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "321F15DD-6AC0-4692-B1A2-7C97011FDFF4",
+    "height": 65,
+    "width": 65,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A3FE76FB-5602-436E-A453-AED0998DFE53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "185E1388-FA46-4607-8E2A-38048248BD6E"
+    },
+    {
+      "class": "group",
+      "id": "6600AF91-0E02-437C-A65E-EC9E69D0C73A"
+    },
+    {
+      "class": "text",
+      "id": "2A766B10-A5A9-4B87-9588-A4B68E8D8D65"
+    }
+  ],
+  "name": "Chart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27FD8882-44CC-470D-9499-3F17CBC5B89C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

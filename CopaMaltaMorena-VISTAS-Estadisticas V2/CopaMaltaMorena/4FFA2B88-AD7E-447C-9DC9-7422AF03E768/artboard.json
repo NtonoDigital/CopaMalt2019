@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B4CD8C47-03DC-411E-A7CF-2181847E8338",
-    "height": 2344,
+    "height": 2434,
     "width": 1440,
     "x": 14147,
     "y": 4650
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -110,68 +110,20 @@
       "id": "71D3934D-6027-49B4-A651-7B638FAF661A"
     },
     {
-      "class": "bitmap",
-      "id": "2C6CD3E5-D673-4298-ABCC-5D4BA62AD7CF"
+      "class": "group",
+      "id": "6AFC1601-BC0C-44D2-B0F9-900F6A820558"
     },
     {
-      "class": "bitmap",
-      "id": "0206180F-88AC-4535-9BC8-64662360A36C"
+      "class": "group",
+      "id": "EC2D2259-F091-4651-891E-6CD65737DE21"
     },
     {
-      "class": "bitmap",
-      "id": "446B68E5-A7B4-4803-95D1-879E5C042E93"
+      "class": "group",
+      "id": "BAFBCE2B-C7F2-4C30-AEE5-5BECDF03D492"
     },
     {
-      "class": "bitmap",
-      "id": "6B5505EF-CADC-4941-B185-6F32BAB3C570"
-    },
-    {
-      "class": "bitmap",
-      "id": "51DCFEAE-CBB9-4AA7-A148-1650DEA07A74"
-    },
-    {
-      "class": "bitmap",
-      "id": "7EB1E976-A2BA-42BE-A258-88AE76AFD142"
-    },
-    {
-      "class": "bitmap",
-      "id": "BB2513BC-2548-4893-A580-54255378C6B0"
-    },
-    {
-      "class": "bitmap",
-      "id": "B8622B3D-97CD-4E9A-950A-A3952DEA323B"
-    },
-    {
-      "class": "text",
-      "id": "EACBB847-AD8E-473D-AD5B-8EE0E4489B7F"
-    },
-    {
-      "class": "text",
-      "id": "0554F416-9C28-4252-A9BC-F67F790C70FE"
-    },
-    {
-      "class": "text",
-      "id": "2FFFBFFC-3B9E-4AE1-9F6A-EAE660EF7709"
-    },
-    {
-      "class": "text",
-      "id": "0E196C63-6FA7-40F6-B0DE-5AC8156E85B8"
-    },
-    {
-      "class": "text",
-      "id": "B25034B5-C910-482F-8F48-03F5A79603D0"
-    },
-    {
-      "class": "text",
-      "id": "1C8A0806-3657-4C17-B50C-B2A5BCD6B8A8"
-    },
-    {
-      "class": "text",
-      "id": "CD01969B-0EC7-404C-BF7B-3AC251238724"
-    },
-    {
-      "class": "text",
-      "id": "FA8C3199-ACDC-42DC-9F0B-A03DDFC298CF"
+      "class": "group",
+      "id": "126355EF-F539-4995-AE71-1C317917FEB1"
     },
     {
       "class": "group",
@@ -192,6 +144,10 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "DB5F61FE-3B61-4B15-B3E6-3AA73A541E5D"
+    },
+    {
+      "class": "group",
+      "id": "30C43EE9-CE02-4FF4-B7EE-49411F46E9FD"
     }
   ],
   "name": "G-Equipos",

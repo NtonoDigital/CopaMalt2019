@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5CC3F8EE-2E37-46DC-9984-FEC73B1A8A28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "200C579A-ABC8-49D7-9A2F-3212CF63F993",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4115EA9-9AA0-47C6-91DC-473A88F00319",
+    "height": 12.90134434630689,
+    "width": 14.07976492905405,
+    "x": 0.3462637618242752,
+    "y": 2.344554038352285
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "031F5931-8D87-4767-AD41-3BB16F5B3CF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "ECFDF5AC-9338-4D6F-A4D4-B697EB336C41"
+    }
+  ],
+  "name": "Combined shape 29126",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5EB84C34-E090-4EBF-8385-C3DCA7A0F51C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.73,
+      "type": 0
+    },
+    "do_objectID": "5F56CB71-8A4A-4D49-911E-20B3DB0176A3",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.63529414,
+          "green": 0.6156863,
+          "red": 0.6039216
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

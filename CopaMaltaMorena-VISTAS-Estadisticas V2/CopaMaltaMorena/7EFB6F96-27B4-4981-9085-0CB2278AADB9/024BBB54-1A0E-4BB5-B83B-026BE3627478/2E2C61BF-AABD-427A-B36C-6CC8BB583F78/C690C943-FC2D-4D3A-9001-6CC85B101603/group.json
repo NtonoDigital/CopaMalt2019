@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "C690C943-FC2D-4D3A-9001-6CC85B101603",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B46114C5-4FDE-4DE4-ADD2-584528F4E049",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A071F64-BC27-4305-83CD-39FD7742414C",
+    "height": 528,
+    "width": 913,
+    "x": 3,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2DC7381C-DC10-4393-974D-3013BF3911D3"
+    },
+    {
+      "class": "group",
+      "id": "E360B8AF-F24C-43A3-A10B-9FCF6603F27D"
+    },
+    {
+      "class": "group",
+      "id": "846C48F3-403D-4348-965C-25C2A765FCFE"
+    }
+  ],
+  "name": "Featured News",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D3F24F48-08F7-441E-8FFE-45B749A2F288",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.73,
+      "type": 0
+    },
+    "do_objectID": "28B81856-102F-492D-A102-F651D8BF2581",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

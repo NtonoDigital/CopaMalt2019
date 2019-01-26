@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "51532C92-D798-481B-A752-59995DE21689",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8473B7D5-9136-4EBD-A4B1-083A5A1B6B93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D6D38E5-581B-4318-8869-38F99EBBA47F",
+    "height": 54,
+    "width": 101,
+    "x": 452,
+    "y": 81
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "96FEDDAC-28D4-41C5-AA3B-07A3D042B51A"
+    }
+  ],
+  "name": "Player Number",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B76DEFB3-CDB1-4007-AA05-876ADBE63A63",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

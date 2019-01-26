@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "F9F294BE-FAD9-4CE9-A1E8-8908726AD259",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B09C19DE-01B4-4CB9-91CC-9FDBA374D0AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7F74779-5988-4899-BE57-44F90CCAF8FB",
+    "height": 65,
+    "width": 154,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FEB7F1E5-ED9C-41E3-B979-A013A7D24D0D"
+    },
+    {
+      "class": "text",
+      "id": "C8A1D2EB-DFA0-4AE1-AE6E-BB6F8A066BC6"
+    }
+  ],
+  "name": "Pie Chart 01 ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5108B8F-90B9-4D4B-8C0A-488DB039E0F5",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

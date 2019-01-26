@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AA3A85E2-7A7A-4D1E-83A4-79DAB4D489F4",
-    "height": 2379,
+    "height": 2667,
     "width": 1440,
     "x": 12357,
     "y": 4637
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -116,6 +116,10 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "847BD6A4-AEE3-44E5-8C61-BF4B9FE949B6"
+    },
+    {
+      "class": "group",
+      "id": "CEE4EECE-3A00-463E-B83A-662C9CE8BA99"
     }
   ],
   "name": "G-Jugadores",

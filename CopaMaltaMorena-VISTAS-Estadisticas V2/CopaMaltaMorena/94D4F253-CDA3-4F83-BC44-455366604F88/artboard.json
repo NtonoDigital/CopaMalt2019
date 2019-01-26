@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -64,10 +64,6 @@
     {
       "class": "symbolInstance",
       "id": "4F76E08C-918D-4F2E-9DD3-1A65CCAAB40F"
-    },
-    {
-      "class": "group",
-      "id": "BA30C423-BCF3-49EC-93E1-DBBCFED846F9"
     },
     {
       "class": "group",
@@ -106,8 +102,8 @@
       "id": "6F320783-8084-4ED0-8B1E-4B36C5E255A6"
     },
     {
-      "class": "MSImmutableHotspotLayer",
-      "id": "BFECF3AE-10C0-401A-8F6A-3F7AFDB9D4F0"
+      "class": "group",
+      "id": "7C49233A-140A-4654-8ED8-B7832A5DBA08"
     },
     {
       "class": "MSImmutableHotspotLayer",
@@ -116,6 +112,18 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "BDDA1027-1C17-4D59-8CA5-1A157425EF55"
+    },
+    {
+      "class": "bitmap",
+      "id": "23886C9A-A3CF-4E1F-807C-35755884CC94"
+    },
+    {
+      "class": "group",
+      "id": "7F331961-40B4-45F0-B577-8B80C9B109B6"
+    },
+    {
+      "class": "bitmap",
+      "id": "5C34344F-6F22-49CC-B78A-1B4A40EDBCE1"
     }
   ],
   "name": "G-Esquema",

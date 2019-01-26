@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "15AA6368-D830-4D93-B840-2FCFC0B6FF24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CFA4843-8C74-48C8-BDE8-5BC828B56DB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60401ED9-900B-492C-8CCB-CEDBF76B30CF",
+    "height": 32,
+    "width": 303,
+    "x": 0,
+    "y": 227
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DEDA40FC-1017-4B46-9857-12D26D99AE9B"
+    },
+    {
+      "class": "group",
+      "id": "07DBC82D-EED5-44FB-AAA1-553DC066725D"
+    },
+    {
+      "class": "text",
+      "id": "2B8297DA-C77F-4834-B557-CFF9F2876CBA"
+    }
+  ],
+  "name": "Stamina",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A79516B7-BA0E-4FC9-A7CD-FA716AA9F959",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
