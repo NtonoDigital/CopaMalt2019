@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "907B60FB-D860-41FE-858E-8A9797FA9A0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51B055D4-100E-40A8-9C9E-DB2706406840",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51F7EF47-A926-4001-8EEF-5665308DD8BA",
+    "height": 40.25,
+    "width": 157.55,
+    "x": 27.6,
+    "y": 47.15
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "6BD4CC42-5820-448C-8396-569AFE389493"
+    },
+    {
+      "class": "text",
+      "id": "0976CC0B-787E-43D9-811B-087730FF26E7"
+    },
+    {
+      "class": "text",
+      "id": "A0AE5F86-5B48-4A22-9353-7CD03A3EB857"
+    }
+  ],
+  "name": "Team Home",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "97058D45-EBB0-48C3-841E-8E188A0FEAE1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "0145A7C9-A5C9-4A86-9821-41D5F8F57154",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

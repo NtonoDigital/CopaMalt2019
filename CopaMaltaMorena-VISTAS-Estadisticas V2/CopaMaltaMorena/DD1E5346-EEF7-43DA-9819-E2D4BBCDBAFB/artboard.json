@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -120,6 +120,14 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "99A21323-6688-4DB5-97DE-8AEB94A565BA"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "451FA1BA-C692-4B06-B400-82E715166693"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "EE9335A9-F4B2-445D-B58A-CA128BC5D97F"
     }
   ],
   "name": "G-Calendario",

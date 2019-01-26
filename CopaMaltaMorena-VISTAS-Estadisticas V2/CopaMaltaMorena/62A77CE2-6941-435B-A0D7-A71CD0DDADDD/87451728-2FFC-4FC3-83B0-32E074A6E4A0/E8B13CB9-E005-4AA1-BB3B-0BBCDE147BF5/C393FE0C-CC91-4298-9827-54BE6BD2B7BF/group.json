@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "C393FE0C-CC91-4298-9827-54BE6BD2B7BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92817E35-191A-4FE2-BFD9-F0B59A333962",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8C25A69-4CB1-4460-A839-4BB13EC1DB2B",
+    "height": 728,
+    "width": 447,
+    "x": 466.0418918918917,
+    "y": 552.5884943181818
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5A7E8CE-A741-4EC2-BD4C-387FA9D2EFFD"
+    },
+    {
+      "class": "group",
+      "id": "FEC3637B-11F5-4302-9368-8539D716DE3A"
+    },
+    {
+      "class": "group",
+      "id": "E104B8A3-2A18-4185-AF1F-42B39B64541D"
+    },
+    {
+      "class": "group",
+      "id": "4D5E3406-03F6-4A60-A381-F5AD5284FB30"
+    },
+    {
+      "class": "group",
+      "id": "B700ADA5-87C8-4A0E-B8EA-E904820CC05B"
+    },
+    {
+      "class": "group",
+      "id": "CA513690-8857-44BC-976A-FB1190C5F721"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E4979D4-C614-4205-B4FF-DF40036CAD34"
+    },
+    {
+      "class": "group",
+      "id": "24FA687B-78A9-4EA9-8627-E60364BEECB7"
+    },
+    {
+      "class": "group",
+      "id": "D67945CB-B6F6-452D-B170-D80782EFA996"
+    }
+  ],
+  "name": "1/2 Article ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4E8EA6FE-DA35-4A55-A27E-126FC1E2B12B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.73,
+      "type": 0
+    },
+    "do_objectID": "4DE0CDDB-D316-4638-8FCF-0D473A2C8033",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "F8BF2734-CC0C-43B5-9DB0-B2982C5FB4F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BE56345-6FB8-45DD-9914-DE9001A3FE78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAD2BEDA-5623-4373-994A-6B439E29ABDB",
+    "height": 731,
+    "width": 450,
+    "x": 0.6239864864865012,
+    "y": 0.5884943181808922
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6EDCDE03-0882-48DB-9C7B-1DCCC223CCF5"
+    },
+    {
+      "class": "group",
+      "id": "D8E9A08A-ACDE-4CAC-8DB5-D4BB07712F15"
+    },
+    {
+      "class": "group",
+      "id": "7042A34F-A506-488E-8A33-1FAF087FB468"
+    },
+    {
+      "class": "group",
+      "id": "D2C5DD5A-D95C-4D0C-BD61-05381BB98A57"
+    },
+    {
+      "class": "group",
+      "id": "CCE17576-2195-44AD-AAC2-C0E00E462996"
+    },
+    {
+      "class": "group",
+      "id": "3D35EF98-0B4C-45FA-AB1C-1861CE57501C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C6BDDD9-04D5-44BF-9DC9-26E0AB4EF1F7"
+    },
+    {
+      "class": "group",
+      "id": "6DC11BFE-0A8A-4A5B-B220-FBECA9B3B314"
+    },
+    {
+      "class": "group",
+      "id": "BD7B19D7-8924-4CC0-AE00-D79BC756395A"
+    }
+  ],
+  "name": "1/2 Article ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CD5198A4-950E-4F39-B254-0770809C8203",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.73,
+      "type": 0
+    },
+    "do_objectID": "C94C7F1A-3E90-471F-91E6-48DA3D5FC514",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
