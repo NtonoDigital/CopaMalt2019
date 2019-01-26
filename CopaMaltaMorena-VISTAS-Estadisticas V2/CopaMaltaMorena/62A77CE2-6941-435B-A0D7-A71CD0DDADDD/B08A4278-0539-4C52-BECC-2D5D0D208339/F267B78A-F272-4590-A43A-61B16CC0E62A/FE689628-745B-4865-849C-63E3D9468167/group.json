@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "FE689628-745B-4865-849C-63E3D9468167",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A50F8626-72BB-4D92-91CE-39E518B315F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7700F517-7A77-496A-A12C-B7429705E268",
+    "height": 731,
+    "width": 450,
+    "x": 0.6239864864865012,
+    "y": 550.5884943181818
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AA9325AF-2BAF-4180-A417-4353C108A883"
+    },
+    {
+      "class": "group",
+      "id": "209753AD-CB80-450F-8BD2-E8D376A0C60C"
+    },
+    {
+      "class": "group",
+      "id": "01BA097D-E85D-4FB9-A359-CBAC073D51BD"
+    },
+    {
+      "class": "group",
+      "id": "20E55BA5-EBD6-452D-BEBD-D9A4388A0574"
+    },
+    {
+      "class": "group",
+      "id": "A93D2516-E567-490C-9752-A31388E6A420"
+    },
+    {
+      "class": "group",
+      "id": "FC840D12-259B-4920-BDAE-34C8C94147C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30667E93-D4C7-47F5-AEBC-6863FD622A05"
+    },
+    {
+      "class": "group",
+      "id": "54F9D6CA-185F-463C-8509-EE6D03A646DA"
+    },
+    {
+      "class": "group",
+      "id": "3C46AC51-E195-4789-8CCC-5B70850EDE2B"
+    }
+  ],
+  "name": "1/2 Article ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6ECC0C83-4A9F-4C28-B9E3-EA1AAD928857",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.73,
+      "type": 0
+    },
+    "do_objectID": "840DC2C9-725E-436D-9934-D725B84992A2",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

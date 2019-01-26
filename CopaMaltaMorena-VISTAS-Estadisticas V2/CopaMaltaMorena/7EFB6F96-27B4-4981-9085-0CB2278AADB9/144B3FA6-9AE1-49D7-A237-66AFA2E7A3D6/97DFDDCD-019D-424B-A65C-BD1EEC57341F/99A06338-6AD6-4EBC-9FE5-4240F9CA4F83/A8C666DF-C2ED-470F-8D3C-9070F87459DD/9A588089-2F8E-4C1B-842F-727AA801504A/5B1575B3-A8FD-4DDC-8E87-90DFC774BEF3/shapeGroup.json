@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5B1575B3-A8FD-4DDC-8E87-90DFC774BEF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "595E8E6D-7285-48B0-857B-277403B1D406",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CCF55E4-667A-41D2-B7C8-3021E4339157",
+    "height": 10.35,
+    "width": 8.049999999999999,
+    "x": 0,
+    "y": 8.049999999999999
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "00E05213-5A7F-4560-9BC0-A7329A30B215"
+    }
+  ],
+  "name": "Winner Detail ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DEF20CE1-EFFC-42C0-8545-460007B844EF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "D53A6380-E5C4-425F-931F-5687A9377C44",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06666667,
+          "green": 0.8627451,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

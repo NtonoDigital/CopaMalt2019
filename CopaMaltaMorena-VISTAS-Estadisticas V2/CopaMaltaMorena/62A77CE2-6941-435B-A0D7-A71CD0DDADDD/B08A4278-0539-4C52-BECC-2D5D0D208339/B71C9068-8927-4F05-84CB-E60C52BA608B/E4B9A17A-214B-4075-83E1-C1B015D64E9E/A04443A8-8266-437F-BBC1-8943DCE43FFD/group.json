@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "do_objectID": "A04443A8-8266-437F-BBC1-8943DCE43FFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9449B5D-9115-478E-B742-F816B90A62AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB8798AF-86F6-4949-844E-F36B6290F04F",
+    "height": 209,
+    "width": 447,
+    "x": 5.83695,
+    "y": 495.95
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "33838C19-3270-410A-8215-C6743B75020E"
+    },
+    {
+      "class": "group",
+      "id": "62C3D4DE-11B1-4B93-AA53-58E1892689EB"
+    },
+    {
+      "class": "group",
+      "id": "E6D48B1B-2D22-40B4-A4CF-CC7F26FA539C"
+    },
+    {
+      "class": "group",
+      "id": "3D5D781E-51A8-4F5C-9D42-82F0971F58F0"
+    },
+    {
+      "class": "group",
+      "id": "DB7C569E-40C7-4608-AB82-E6AF3A2F5C4B"
+    }
+  ],
+  "name": "News 03",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1ACA99D7-6EBD-4C02-88CD-A53BF8F94DE6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.6739,
+      "type": 0
+    },
+    "do_objectID": "9ACCA534-28D0-4B3D-B01E-FC48622FDD1F",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0DA7EFAE-E16B-41EE-8FAA-03DE356B77A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E2D07FA-A422-4E06-8693-BBB5E01C388B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB1444F8-86DE-42D3-96E4-D7AC0B0AEB6F",
+    "height": 25.3,
+    "width": 29.9,
+    "x": 123.05,
+    "y": 5.75
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d96515a578934c37f4e6668c7dc6ba8d320aecae",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "TEAM LOGO",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "25C32902-9738-42BF-B429-6646B756B250",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "BC7C42A5-9434-437B-A05E-FFCE8233D87F",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

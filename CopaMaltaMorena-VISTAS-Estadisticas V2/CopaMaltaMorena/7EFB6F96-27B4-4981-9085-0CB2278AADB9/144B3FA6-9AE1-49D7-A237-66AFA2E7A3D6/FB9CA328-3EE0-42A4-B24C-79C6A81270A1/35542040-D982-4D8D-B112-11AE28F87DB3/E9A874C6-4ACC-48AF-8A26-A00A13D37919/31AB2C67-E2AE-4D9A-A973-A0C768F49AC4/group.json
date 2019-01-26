@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "31AB2C67-E2AE-4D9A-A973-A0C768F49AC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A00EECC-DE5B-4661-A848-038472390A3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A584D2CD-B741-4C71-8AA8-8DD3D8E8524B",
+    "height": 16.42017045454554,
+    "width": 37.54594594594593,
+    "x": 139.6239864864865,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "49D86BD0-CCBB-4C4F-A409-FE495FF9B099"
+    },
+    {
+      "class": "text",
+      "id": "DEA6FA0D-184F-44AD-93B7-819F4F0BCE77"
+    }
+  ],
+  "name": "Comments",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FE2272F7-A9A4-47F1-805A-AB839771EF97",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.73,
+      "type": 0
+    },
+    "do_objectID": "31F0DCD1-48A5-4EAC-9B9F-07A67C50F562",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

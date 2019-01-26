@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "D7BACF04-E2F6-4B60-9C29-735CA1CF3FF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7500EBBC-919E-4CFA-B4AF-EA710C87FCE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08D060DD-9557-4B57-85B6-7CB0390DDD22",
+    "height": 40.25,
+    "width": 155.25,
+    "x": 255.3,
+    "y": 47.15
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "46E96B34-0159-461D-B5D8-036541697276"
+    },
+    {
+      "class": "text",
+      "id": "870CC074-26CE-480D-AB72-572FBFE820F4"
+    },
+    {
+      "class": "text",
+      "id": "ABF52E0F-780B-41EE-9B36-B6DCAEED6AA5"
+    }
+  ],
+  "name": "Team Away ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FFBA884C-579E-4354-BF56-59C09EF9C1EA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "9128CD83-CC97-4503-A426-1E31EA75F03E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

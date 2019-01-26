@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "F1B11989-E153-49B0-A289-BEE11CDCE98F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F403EF41-4E33-4D71-BF2F-47A0CCD673A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D3F6159-3512-4F07-8CD7-BE197040893F",
+    "height": 31.66747159090912,
+    "width": 31.67939189189188,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "03A8B078-540B-425D-9182-AA607DC5C9AB"
+    }
+  ],
+  "name": "Author Photo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D88B536F-9077-42E5-BA76-9384F7D42F79",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.73,
+      "type": 0
+    },
+    "do_objectID": "AB3A5E57-5653-4603-88D6-080AC93CCFB9",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

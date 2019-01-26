@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B8877F62-E4DC-4181-9833-B3CF58FD9D04",
-    "height": 4431,
+    "height": 4882,
     "width": 1440,
     "x": -1838,
     "y": 4574
@@ -53,7 +53,7 @@
   "isFlowHome": true,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "MSImmutableHotspotLayer",
@@ -69,87 +69,11 @@
     },
     {
       "class": "group",
-      "id": "27D82BD5-16DA-47BB-B270-0D1ED8A6AE87"
-    },
-    {
-      "class": "group",
-      "id": "0776FD1E-FD1A-4BBB-9F39-26B7C3F7FE9E"
-    },
-    {
-      "class": "group",
-      "id": "732515EE-6006-453A-99F1-80704628F172"
-    },
-    {
-      "class": "group",
-      "id": "9D0AC40F-B823-4B7A-88BC-2A5B11FE6EEA"
-    },
-    {
-      "class": "group",
-      "id": "A5DE8F60-BC66-4082-9E77-2ADE2014EBF8"
-    },
-    {
-      "class": "group",
-      "id": "90BFC1B9-659C-405E-8FC8-24C93E9405B1"
-    },
-    {
-      "class": "group",
-      "id": "286882E5-D8C2-48CC-A625-3BC867D77781"
-    },
-    {
-      "class": "bitmap",
-      "id": "B3FB5B1E-C4D8-4C39-880A-093AA93DD348"
-    },
-    {
-      "class": "group",
-      "id": "524A82C4-1F84-49FC-A558-4670328A0B56"
-    },
-    {
-      "class": "group",
-      "id": "47CD81EB-5B91-4A5F-8D8C-E5256D60B8C6"
-    },
-    {
-      "class": "group",
-      "id": "CD4F06F9-12F4-46A6-9BA2-6B07DFBB5385"
-    },
-    {
-      "class": "group",
-      "id": "661EB7FC-5E72-4A76-AA98-7BDFEA0510B4"
-    },
-    {
-      "class": "group",
-      "id": "85B5331C-E60D-42C2-BF73-DD95F0B2DBB8"
-    },
-    {
-      "class": "group",
-      "id": "1B7757CD-3196-493D-BD69-117CFF3637BF"
-    },
-    {
-      "class": "group",
-      "id": "3A0645D6-1E30-4FEF-AA7E-BC01CA69C858"
-    },
-    {
-      "class": "group",
-      "id": "013B5F3C-84C7-41F1-B24D-A2CABCFC7219"
-    },
-    {
-      "class": "group",
-      "id": "7EE8D3AF-6490-43CA-BAFD-0E5356E6974D"
-    },
-    {
-      "class": "bitmap",
-      "id": "B56C7BEF-E087-435C-8A6E-FF6E96272BEB"
+      "id": "B08A4278-0539-4C52-BECC-2D5D0D208339"
     },
     {
       "class": "symbolInstance",
       "id": "268F8353-9F7C-4C5F-8D80-87A53A286931"
-    },
-    {
-      "class": "group",
-      "id": "F6E46F5B-4AAE-4AC0-A632-9DF43FEC39D7"
-    },
-    {
-      "class": "group",
-      "id": "B03ED0C7-ABBF-48E8-AB94-789F97342F44"
     }
   ],
   "name": "Home 1",
@@ -161,7 +85,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
