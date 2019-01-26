@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "7C8CC2D2-22AD-424E-AEF4-62CA51113EF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66F9B2AC-72DD-4C61-B4E7-D9D765A71D73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B14463B-93E3-42AE-BC47-CD44355216FB",
+    "height": 46.88372093023259,
+    "width": 37.56708407871201,
+    "x": 9.316636851520576,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+  ],
+  "name": "Guia",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9F4B7E8-C0FD-467F-9E92-4D163B05933D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

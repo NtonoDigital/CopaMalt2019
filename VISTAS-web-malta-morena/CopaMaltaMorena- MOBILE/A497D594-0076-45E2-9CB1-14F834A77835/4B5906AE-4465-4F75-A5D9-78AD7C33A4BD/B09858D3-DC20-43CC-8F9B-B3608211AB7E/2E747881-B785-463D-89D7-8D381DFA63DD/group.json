@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2E747881-B785-463D-89D7-8D381DFA63DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FAE43DF-FFC4-48E3-A519-42B17CC137C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7734709-729E-4E55-B01D-95DCFC8355AC",
+    "height": 16.19510720222752,
+    "width": 46.2717348635072,
+    "x": 144.4536628482603,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BACEE1FB-A684-4AF3-833E-16BAD42E43D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE70A942-682C-4027-91D3-65C5226A3E21"
+    }
+  ],
+  "name": "SELECT-ESTATIS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A144F7E1-F805-425F-A1E5-FBDF435CBC07",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.855977905292266,
+      "type": 0
+    },
+    "do_objectID": "7484C3E1-8108-4797-845B-CA93103A6921",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

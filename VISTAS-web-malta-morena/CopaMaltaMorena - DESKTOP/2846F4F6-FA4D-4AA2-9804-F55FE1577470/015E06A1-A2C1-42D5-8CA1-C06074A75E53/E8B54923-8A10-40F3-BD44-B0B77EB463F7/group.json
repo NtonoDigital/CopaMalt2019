@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "E8B54923-8A10-40F3-BD44-B0B77EB463F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA7B1FCA-53EA-4488-A2B2-7D1422973314",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E35B5F2F-0AD5-42BC-8743-C55640DA0416",
+    "height": 385,
+    "width": 910,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B283D7B-FEE8-4577-BB5B-15BC70AE5B98"
+    },
+    {
+      "class": "bitmap",
+      "id": "8D8C487B-3082-44E2-B48C-9F51D943AD3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2920DAF6-ECDC-4452-A81F-C010EC3B0282"
+    },
+    {
+      "class": "text",
+      "id": "8892C2CD-37F8-401C-AD6D-09D9C3724FED"
+    }
+  ],
+  "name": "soccer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94A6FAA3-A0BB-4677-B456-028555EF1023",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

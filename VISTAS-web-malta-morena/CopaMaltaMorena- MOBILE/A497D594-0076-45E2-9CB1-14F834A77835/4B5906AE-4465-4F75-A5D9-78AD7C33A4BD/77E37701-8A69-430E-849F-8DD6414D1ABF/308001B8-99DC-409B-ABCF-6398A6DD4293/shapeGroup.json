@@ -1,0 +1,94 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "308001B8-99DC-409B-ABCF-6398A6DD4293",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F69B2869-7653-4C2E-AB52-FC01C8578DC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EFB2B3FC-4C1D-4B3A-A36F-FE3FB4805D73",
+    "height": 5.012771276879943,
+    "width": 5.029480514469487,
+    "x": 101.750259638884,
+    "y": 3.470380114763034
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "triangle",
+      "id": "4DACCD97-A7E5-46EF-817E-F37085E4CB59"
+    }
+  ],
+  "name": "Triangle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "327B2B49-21FC-4759-8EAA-FBAC4AB01BD8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.855977905292266,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.5355524655652051
+      }
+    ],
+    "do_objectID": "0640F63C-C2CC-496C-A422-C697DCFE6DEE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6326264880952381,
+          "green": 0.6326264880952381,
+          "red": 0.6326264880952381
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

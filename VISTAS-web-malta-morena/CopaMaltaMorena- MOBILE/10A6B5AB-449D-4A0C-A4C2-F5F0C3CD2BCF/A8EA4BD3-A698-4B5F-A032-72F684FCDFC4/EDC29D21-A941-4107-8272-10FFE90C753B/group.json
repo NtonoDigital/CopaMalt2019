@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "EDC29D21-A941-4107-8272-10FFE90C753B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB4D6012-C622-4109-818F-2DCC27FF90D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "39B13DA4-8961-4B72-8FEB-D1AB43492B14",
+    "height": 10,
+    "width": 6.4,
+    "x": 19.2,
+    "y": 346
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4F8B6E12-65D8-491E-8F49-74E59E26FEC1"
+    },
+    {
+      "class": "group",
+      "id": "51181162-C786-48D5-B4F7-418E5FC152BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "750BF749-2788-447A-9D6E-5E8AD68D9F69"
+    }
+  ],
+  "name": "cronica-tarejta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9DCD0E0B-B004-4DE6-9923-872DE57CA5B8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "type": 0
+    },
+    "do_objectID": "48A7DE75-C1DF-464B-AEA3-BB44934560C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

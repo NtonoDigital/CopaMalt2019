@@ -1,0 +1,57 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "FC068F05-914F-44D2-8F46-7F26D38C0974",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C2027C4-1997-4781-8781-97CB75459BDF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "ADC06B0A-DB5C-41DD-82FD-43123153BF48",
+    "height": 53.82720022916794,
+    "width": 43.54560018539429,
+    "x": 39.31200016736985,
+    "y": 200.7936008548737
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/cd49fb98e50f2117f8ecd055ca34563cd7df5963",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "player6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "24EC006E-E7F6-4A96-BC97-BAE4644C1649",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.048000025749207,
+      "type": 0
+    },
+    "do_objectID": "9D5429AB-CE45-44B8-9DA0-BFBDD913389A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

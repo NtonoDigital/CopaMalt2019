@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "0BBCA044-D51C-4DFE-BFDC-C4A988A6AFA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4DA3930-6E85-4455-9F5A-F64653F7DAE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A46906D3-BAD6-4B54-82CA-1E1EBD7FD442",
+    "height": 50,
+    "width": 904,
+    "x": 38,
+    "y": 649
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CB0B913-2D42-4591-A0C3-E8F8BEEF3347"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9179A964-8CFA-4764-9142-7C2182D43215"
+    },
+    {
+      "class": "text",
+      "id": "224AB999-81D7-4E5C-87C6-67F7561BFE38"
+    }
+  ],
+  "name": "title-cronica",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7062C20-4266-4992-B515-B8CA6099653C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
