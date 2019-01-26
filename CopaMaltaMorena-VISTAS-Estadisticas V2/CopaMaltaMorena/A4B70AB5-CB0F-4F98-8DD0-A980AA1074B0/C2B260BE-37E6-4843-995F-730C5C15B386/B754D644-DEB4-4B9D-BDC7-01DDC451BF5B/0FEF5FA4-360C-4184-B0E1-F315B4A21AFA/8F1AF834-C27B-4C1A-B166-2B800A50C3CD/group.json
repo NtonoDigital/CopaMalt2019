@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "8F1AF834-C27B-4C1A-B166-2B800A50C3CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE25BCCF-9A18-4BF2-A6FB-A69A8BCAE16F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67107896-6259-4304-8291-84AF9F3F1A2F",
+    "height": 40.25,
+    "width": 157.55,
+    "x": 62.09999999999999,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "40433541-A82B-4D93-B2D0-CC3A472A110E"
+    },
+    {
+      "class": "text",
+      "id": "96062050-7EEA-4D40-983D-46833908E35D"
+    },
+    {
+      "class": "text",
+      "id": "4F9FCF35-6AD5-4A30-8966-FBF67C49D786"
+    }
+  ],
+  "name": "Team ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FE3E5FD8-006A-4C2B-BB98-344994AEC450",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "5C4D76EF-72F0-48AD-8305-0B868D8040D4",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

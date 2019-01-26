@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "C80F7D6F-138A-4AD6-8023-8588AF4E2913",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "001F3DD3-1AAE-4F32-9ACA-D6EF7D4B196C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "193F8F79-9CC3-4DEA-B75D-EC6EBC511050",
+    "height": 26,
+    "width": 18,
+    "x": 0.004607229149556247,
+    "y": 0.7904618770394602
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0E627F2-847D-4B95-BD54-621D19529FFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F68C3936-F116-416A-AB53-69E7D33D8C91"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01B043DB-6EAB-4907-80AB-E02D609650B3"
+    }
+  ],
+  "name": "Glove",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D067A66F-1493-4588-B4BC-470F8FF7895E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

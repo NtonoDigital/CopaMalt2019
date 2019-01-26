@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -108,9 +108,17 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "D60665BE-EE03-463F-BC5E-3E1C07EFEE6A"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "7193FD59-346A-4091-AAC0-599F426B4F03"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "847BD6A4-AEE3-44E5-8C61-BF4B9FE949B6"
     }
   ],
-  "name": "Jugadores",
+  "name": "G-Jugadores",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

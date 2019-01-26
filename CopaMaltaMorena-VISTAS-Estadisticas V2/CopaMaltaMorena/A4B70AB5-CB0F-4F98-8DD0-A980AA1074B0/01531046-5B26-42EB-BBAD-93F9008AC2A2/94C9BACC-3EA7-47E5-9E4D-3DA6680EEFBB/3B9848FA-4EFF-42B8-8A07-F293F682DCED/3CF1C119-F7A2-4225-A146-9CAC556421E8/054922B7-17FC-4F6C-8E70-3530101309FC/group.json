@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "054922B7-17FC-4F6C-8E70-3530101309FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF76C8A5-CDA1-42AB-ACCE-BD1D68942707",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E82FB4D-9E0B-461C-837F-72CEB22B6359",
+    "height": 80,
+    "width": 167,
+    "x": 340.1117848857515,
+    "y": 22.42149246421064
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "76836CA7-ECA4-4462-B22F-5CC93CBDACAB"
+    },
+    {
+      "class": "text",
+      "id": "381EEE4B-7915-4F29-8832-AA4093658B48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EEC9917C-83A2-4190-823E-5B4AAA23D931"
+    }
+  ],
+  "name": "Final Score",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82158AFA-AB85-4499-B660-1E747F2B2E77",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

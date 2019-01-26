@@ -22,10 +22,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B4CD8C47-03DC-411E-A7CF-2181847E8338",
-    "height": 2667,
+    "height": 2344,
     "width": 1440,
     "x": 14147,
-    "y": 4637
+    "y": 4650
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -184,9 +184,17 @@
     {
       "class": "text",
       "id": "1AABD01C-CFB7-4983-9B03-E5D69E8C0F73"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "6F0533E9-6ED5-4BD7-8788-4FB751AF4983"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "DB5F61FE-3B61-4B15-B3E6-3AA73A541E5D"
     }
   ],
-  "name": "Equipos",
+  "name": "G-Equipos",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

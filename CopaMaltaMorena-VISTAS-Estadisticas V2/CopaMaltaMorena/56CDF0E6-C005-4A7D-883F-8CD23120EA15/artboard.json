@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -84,6 +84,22 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "436688E6-F98C-4A02-BA16-3615B795B2CA"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "7D2A79E0-C376-4B1C-9437-C7212E9D3BA8"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "5A5ABE2A-127D-451F-A807-4685DE4AE35C"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "27A18D21-BF74-4C5D-92DD-4441C1F070BE"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "60BD7B26-2D81-42AC-BB80-45EDC638F1BD"
     }
   ],
   "name": "Perfil - resumen",

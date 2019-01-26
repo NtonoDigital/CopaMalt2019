@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "C05C1172-A9A9-4ACE-B7B0-27091BC932EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3660FA7-ABB6-4287-A0F7-393F5D9302F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A39B1DC-9118-478A-8241-C8058DEC42A8",
+    "height": 36,
+    "width": 405,
+    "x": 88,
+    "y": 646
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "78E0A748-FEFD-44BC-BA8A-F27B96CB928E"
+    },
+    {
+      "class": "group",
+      "id": "AD71CCAB-65EC-4266-B495-E6D23FFD6BA2"
+    }
+  ],
+  "name": "West League 2016",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F0C63FC2-7EBF-4501-A95B-13E1992430F1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.5,
+      "type": 0
+    },
+    "do_objectID": "920E240A-E38B-4D7D-A18B-DAC47FE8B4FD",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

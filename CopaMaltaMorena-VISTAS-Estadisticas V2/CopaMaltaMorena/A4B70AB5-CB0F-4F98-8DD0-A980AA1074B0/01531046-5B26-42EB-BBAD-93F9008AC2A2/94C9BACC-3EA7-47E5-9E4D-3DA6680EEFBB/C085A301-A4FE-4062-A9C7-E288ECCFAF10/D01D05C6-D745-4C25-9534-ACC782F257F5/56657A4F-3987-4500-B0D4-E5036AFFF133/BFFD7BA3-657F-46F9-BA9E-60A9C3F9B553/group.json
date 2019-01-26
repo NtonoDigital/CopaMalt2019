@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "BFFD7BA3-657F-46F9-BA9E-60A9C3F9B553",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B3BE885-2560-44D7-A601-549EC6E5CC75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF12825B-E249-49BA-8170-46F04C324FD7",
+    "height": 19,
+    "width": 14,
+    "x": 383.1926109712803,
+    "y": 3.069356872635555
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2BC631A7-24DB-4671-B3C7-3A0551DA2BDE"
+    }
+  ],
+  "name": "Yellow Card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4770090C-C24B-48D2-8BC7-D525B40EBFEB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

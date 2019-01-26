@@ -1,0 +1,69 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9BF91EBD-DFF7-4894-9DDF-B2B5710D2637",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69F66AB7-0967-46B4-A333-FDC24831C94B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4C422C5-FCB5-40C9-A7D9-2CFA1226139A",
+    "height": 7.257835302410552,
+    "width": 7.268714323532945,
+    "x": 8.654006098388944,
+    "y": 5.243662244452958
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0AEDDF0D-5C78-4EA1-9633-72299469ED98"
+    }
+  ],
+  "name": "Elipse 2 copia",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "487EE4E8-B8F9-4DE1-A73F-C79792A643F5",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.67058825,
+          "green": 0.627451,
+          "red": 0.5882353
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

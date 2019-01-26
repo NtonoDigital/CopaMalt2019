@@ -28,7 +28,7 @@
     "y": 4650
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -104,9 +104,17 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "4BA4F7D7-3978-4C3F-B294-A71B05AD5C39"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "FCAD9B2B-7D5D-475B-BA23-F58090835DD5"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "D465B02E-0EC7-407E-B807-2E1C638781DD"
     }
   ],
-  "name": "Ranking - Equipos",
+  "name": "G-Ranking - Equipos",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

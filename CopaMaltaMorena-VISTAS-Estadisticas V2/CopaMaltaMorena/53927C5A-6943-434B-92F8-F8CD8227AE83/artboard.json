@@ -29,7 +29,7 @@
     "y": 7516
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -101,9 +101,25 @@
     {
       "class": "text",
       "id": "153C1426-06F6-462B-B71B-F7CAE71A6505"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "9B425218-54A4-4DB7-9C16-C6899F8D1695"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "4C44BE4A-6330-47AE-A71E-FD31CDBE3499"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "FC12C2F9-F0F0-4BD0-A81C-B749CCF83CE9"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "2561C43E-C9BE-445B-934C-460442BFB3A1"
     }
   ],
-  "name": "overview",
+  "name": "Team-overview",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

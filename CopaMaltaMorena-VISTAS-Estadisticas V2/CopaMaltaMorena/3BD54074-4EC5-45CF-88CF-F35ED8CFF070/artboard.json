@@ -28,7 +28,7 @@
     "y": 4650
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -96,9 +96,17 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "0F310F69-C71C-4B60-91C6-EFEDAC644D9A"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "4C826735-75E0-4757-8934-07ECBBCAA21F"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "1904D702-DCEF-4B03-87AB-0F7669D872F0"
     }
   ],
-  "name": "Ranking - Juga- ver mas",
+  "name": "G-Ranking - Juga- ver mas",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

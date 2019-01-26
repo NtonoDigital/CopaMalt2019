@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "05F78248-7647-4D5C-9311-13D89C9252EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B73CE51-2FE7-443B-A330-130608D34EEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F659BC0-75C7-4A66-84AD-A245BF2DDB12",
+    "height": 20,
+    "width": 19,
+    "x": 56.64274802655955,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F322362A-79AD-4A87-8130-FCA8D2A7EA48"
+    },
+    {
+      "class": "group",
+      "id": "6EA54085-B6A3-405E-8137-AAEBF922715B"
+    }
+  ],
+  "name": "Soccer Ball Own Goal",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA9584BC-015A-4EEE-B0D1-43FBD497A7B6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

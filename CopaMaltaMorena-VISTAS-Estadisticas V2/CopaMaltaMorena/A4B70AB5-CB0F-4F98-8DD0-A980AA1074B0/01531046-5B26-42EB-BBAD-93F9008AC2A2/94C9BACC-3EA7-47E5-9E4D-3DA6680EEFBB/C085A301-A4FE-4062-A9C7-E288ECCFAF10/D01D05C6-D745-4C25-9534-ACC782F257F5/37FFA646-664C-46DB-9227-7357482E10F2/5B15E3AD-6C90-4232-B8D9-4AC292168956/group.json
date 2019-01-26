@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "5B15E3AD-6C90-4232-B8D9-4AC292168956",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "247F46EB-F92D-4D0E-9B11-9900DE32D110",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BF1187F-965A-4D72-A292-E11B7C4119A0",
+    "height": 14,
+    "width": 9,
+    "x": 386.5937288201378,
+    "y": 5.115594787725911
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4DD8E028-D481-43A6-990E-7036EE7707A2"
+    }
+  ],
+  "name": "In Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CB9926D-01A5-4352-B6DC-F6BB548E5110",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

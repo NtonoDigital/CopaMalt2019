@@ -22,13 +22,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3B50598B-194B-4A79-B53E-8258817287DF",
-    "height": 2667,
+    "height": 2027,
     "width": 1440,
     "x": 15822,
     "y": 4637
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -108,9 +108,17 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "BFECF3AE-10C0-401A-8F6A-3F7AFDB9D4F0"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "E07B45C9-ABD2-4419-9D8D-2ACB24F41783"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "BDDA1027-1C17-4D59-8CA5-1A157425EF55"
     }
   ],
-  "name": "esquema",
+  "name": "G-Esquema",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

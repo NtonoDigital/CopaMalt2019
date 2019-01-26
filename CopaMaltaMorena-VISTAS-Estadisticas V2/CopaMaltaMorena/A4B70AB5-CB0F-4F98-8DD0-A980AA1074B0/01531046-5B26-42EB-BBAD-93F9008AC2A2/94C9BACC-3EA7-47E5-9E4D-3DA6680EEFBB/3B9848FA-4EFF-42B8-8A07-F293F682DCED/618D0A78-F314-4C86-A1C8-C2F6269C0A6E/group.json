@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "618D0A78-F314-4C86-A1C8-C2F6269C0A6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F566720-BC38-445B-997D-CAC1579710F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42D13D26-A93E-432E-9F4F-1395FF31ED3E",
+    "height": 29,
+    "width": 184,
+    "x": 688.1595114188381,
+    "y": 27.31618115780077
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF802770-6D41-49E8-B713-683E8A2EAC9E"
+    },
+    {
+      "class": "text",
+      "id": "CC07B2ED-7B07-4921-B177-F514893F0A09"
+    }
+  ],
+  "name": "Previous Results Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D11B4A1-7117-41E2-93D5-762A69A825D5",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

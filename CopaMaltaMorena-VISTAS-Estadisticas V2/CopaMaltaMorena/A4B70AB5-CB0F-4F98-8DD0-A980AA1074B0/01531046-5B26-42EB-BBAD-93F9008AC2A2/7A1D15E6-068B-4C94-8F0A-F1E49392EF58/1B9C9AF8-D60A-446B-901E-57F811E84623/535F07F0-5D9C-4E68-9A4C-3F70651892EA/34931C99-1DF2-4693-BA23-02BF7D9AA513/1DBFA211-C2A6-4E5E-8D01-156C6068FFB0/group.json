@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "1DBFA211-C2A6-4E5E-8D01-156C6068FFB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AF53125-BAE5-49EC-9C41-674509180FA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76173F7B-B67C-44A5-8514-627BB796BBA5",
+    "height": 22,
+    "width": 53,
+    "x": 56.64274802655955,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19497F29-9057-41EC-A96E-A25F948F51F9"
+    },
+    {
+      "class": "group",
+      "id": "EDD91048-37BA-4A4B-9041-D6E3447A821B"
+    },
+    {
+      "class": "group",
+      "id": "133A60C6-8A0A-443D-AC1C-9544CC2DE538"
+    }
+  ],
+  "name": "Soccer Ball Missed Penalty ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "931E6C80-50B6-42AF-884B-11E8EECD2312",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

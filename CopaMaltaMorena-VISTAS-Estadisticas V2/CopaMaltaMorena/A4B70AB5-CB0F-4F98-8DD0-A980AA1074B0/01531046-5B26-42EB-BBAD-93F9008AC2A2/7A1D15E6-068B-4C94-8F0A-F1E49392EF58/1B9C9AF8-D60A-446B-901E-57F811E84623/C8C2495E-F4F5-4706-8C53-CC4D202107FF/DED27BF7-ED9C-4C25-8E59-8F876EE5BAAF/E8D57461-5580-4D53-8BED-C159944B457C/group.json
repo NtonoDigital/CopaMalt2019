@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "E8D57461-5580-4D53-8BED-C159944B457C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EA4FAE4-C058-4A84-87F2-7475221C076B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE368C8E-A3AA-4DD7-B303-02B26F38DC34",
+    "height": 19,
+    "width": 19,
+    "x": 56.64274802655955,
+    "y": 8.407462093154416
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "584CA1C5-7A54-4E8A-96A1-35F72D68AA75"
+    },
+    {
+      "class": "group",
+      "id": "DDE6B0F6-E7F1-408F-BC47-F9FB085C11AD"
+    }
+  ],
+  "name": "Soccer Ball Goal",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22A26B7A-F409-48F1-A09A-FA84E0839079",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

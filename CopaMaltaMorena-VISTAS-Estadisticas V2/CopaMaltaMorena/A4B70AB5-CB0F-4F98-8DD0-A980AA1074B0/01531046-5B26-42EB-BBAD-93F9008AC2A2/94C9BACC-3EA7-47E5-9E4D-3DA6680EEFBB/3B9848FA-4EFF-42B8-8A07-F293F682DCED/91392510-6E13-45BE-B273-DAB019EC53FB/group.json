@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "91392510-6E13-45BE-B273-DAB019EC53FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36A7AD7F-B7C8-4EBB-AC01-220C030C06CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36F1564B-150A-4097-8E21-C5459DDDC8BE",
+    "height": 119,
+    "width": 877,
+    "x": 1.133705949619805,
+    "y": 714.150362906703
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BBAFF957-F0A0-4D39-86EB-B927170BA704"
+    },
+    {
+      "class": "group",
+      "id": "93C25422-6304-4E50-90FC-345D28FB6DBC"
+    }
+  ],
+  "name": "Ball Posession",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74A26168-9A2D-47E2-8ECE-04062F49A64D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

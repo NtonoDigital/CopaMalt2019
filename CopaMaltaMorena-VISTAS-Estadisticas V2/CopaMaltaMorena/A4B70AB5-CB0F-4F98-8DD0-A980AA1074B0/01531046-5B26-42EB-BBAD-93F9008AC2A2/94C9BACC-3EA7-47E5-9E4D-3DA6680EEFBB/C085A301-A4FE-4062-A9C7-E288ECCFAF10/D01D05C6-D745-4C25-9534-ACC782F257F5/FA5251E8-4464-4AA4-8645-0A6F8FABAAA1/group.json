@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "FA5251E8-4464-4AA4-8645-0A6F8FABAAA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "358F962B-4636-4A3C-9057-A5B516742B8A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62A82137-1420-4A32-AF63-68A85DE29510",
+    "height": 41,
+    "width": 432,
+    "x": 1.02322880371661,
+    "y": 757.9992704115099
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "042178A4-C923-4E52-A59C-E956657EE52D"
+    },
+    {
+      "class": "text",
+      "id": "7066E0FA-296D-4978-8D4D-14D92BD0EC1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70F9E95D-F7B4-4EA6-BBE3-B28E9339AE98"
+    }
+  ],
+  "name": "12 Coach",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "582EFBBC-577D-4915-A561-0AC4AA5EA49A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

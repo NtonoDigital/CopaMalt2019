@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -84,6 +84,22 @@
     {
       "class": "group",
       "id": "DB0B5619-E9EB-4F25-9D6B-75C912FB18EE"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "F4AEC447-0458-40CA-8086-04D2A588BFA6"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "DAA790CC-2B05-4C65-9593-818AB9D3F6CD"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "D924F838-E94F-4C37-A8C4-F10DCF2A85CC"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "59024E5C-066B-43F8-925E-3665F1136221"
     }
   ],
   "name": "PERFIL - GALERIA",

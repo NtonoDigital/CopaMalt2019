@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "511BB6AD-A89B-4055-8935-E80A95A2B2EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56A403A8-0973-4624-B0F5-CB1B86DC645B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40C2AA61-7E3E-45DB-9C8C-D37254ADA40E",
+    "height": 22,
+    "width": 53,
+    "x": 56.64274802655957,
+    "y": 8.407462093154411
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED0CB08C-3438-4482-9D07-7184467C982E"
+    },
+    {
+      "class": "group",
+      "id": "A7F7699F-236B-41F5-8EA9-88B98906B201"
+    },
+    {
+      "class": "group",
+      "id": "3B2A6DBF-C8DA-4B83-86D7-62EEC2C099FD"
+    }
+  ],
+  "name": "Soccer Ball Penalty",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A94458B8-3FFF-4CA0-BC14-881DEF9CA06B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

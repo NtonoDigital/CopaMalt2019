@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "6C3F5925-8CC9-4427-BE03-DFC672F00D3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8FB39F2-F0D1-47BA-95A4-EB6C94A57327",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D36CB5AE-EFDE-4CD5-ADF8-BACF460B0FA9",
+    "height": 27,
+    "width": 19,
+    "x": 58.88514792431327,
+    "y": 4.093183779119926
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C80F7D6F-138A-4AD6-8023-8588AF4E2913"
+    }
+  ],
+  "name": "Keepers Glove",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E8F0EB9-4CF8-43B5-9256-7CAAC3DF0558",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

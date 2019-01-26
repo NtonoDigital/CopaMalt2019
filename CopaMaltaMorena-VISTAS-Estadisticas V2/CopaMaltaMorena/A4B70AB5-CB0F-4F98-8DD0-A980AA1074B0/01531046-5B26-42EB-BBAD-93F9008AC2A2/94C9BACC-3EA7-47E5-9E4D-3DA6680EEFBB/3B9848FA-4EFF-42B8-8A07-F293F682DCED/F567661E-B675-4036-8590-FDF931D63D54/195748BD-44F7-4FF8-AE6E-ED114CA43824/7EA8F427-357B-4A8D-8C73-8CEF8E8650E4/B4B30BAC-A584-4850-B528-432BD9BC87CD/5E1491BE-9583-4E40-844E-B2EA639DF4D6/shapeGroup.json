@@ -1,0 +1,75 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5E1491BE-9583-4E40-844E-B2EA639DF4D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E46A1AE8-AEDF-46F2-9A0C-D90CE204865F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D508980B-6910-4499-8294-254EF4F92C62",
+    "height": 6.801476236990766,
+    "width": 10.20342156892958,
+    "x": 19.08352105407429,
+    "y": 11.92632191537747
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "49216F93-4367-4AF3-BEAA-023FFE6E06C5"
+    }
+  ],
+  "name": "Chest Shadow Detail",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "E1DD9A6F-AD95-46BD-A4D3-60FAF9F06DE5",
+      "opacity": 0.15
+    },
+    "do_objectID": "A6ABE1AF-9EBC-49FA-B6AF-D1E4DFB45C18",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

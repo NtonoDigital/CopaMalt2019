@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "66C8FBB3-C636-4754-A58D-04A4EE8A5F62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72D9DEB9-048A-496B-AB84-60D0DC0924CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C15D3C7D-583D-4F82-BF97-6AF2D6A7AEC0",
+    "height": 29,
+    "width": 205,
+    "x": 36.16811324191009,
+    "y": 152.4509138535946
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ED229316-9EAB-4374-92DA-E4E5AEDF5056"
+    },
+    {
+      "class": "group",
+      "id": "240FBEC0-61CF-4BDD-9F77-4F68396A8F08"
+    },
+    {
+      "class": "text",
+      "id": "DC4A94C5-D127-4F4D-B8A2-D61CF134CE0A"
+    }
+  ],
+  "name": "Total Shots",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "977A6995-B4CD-453A-8C88-31571EB0B0B9",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

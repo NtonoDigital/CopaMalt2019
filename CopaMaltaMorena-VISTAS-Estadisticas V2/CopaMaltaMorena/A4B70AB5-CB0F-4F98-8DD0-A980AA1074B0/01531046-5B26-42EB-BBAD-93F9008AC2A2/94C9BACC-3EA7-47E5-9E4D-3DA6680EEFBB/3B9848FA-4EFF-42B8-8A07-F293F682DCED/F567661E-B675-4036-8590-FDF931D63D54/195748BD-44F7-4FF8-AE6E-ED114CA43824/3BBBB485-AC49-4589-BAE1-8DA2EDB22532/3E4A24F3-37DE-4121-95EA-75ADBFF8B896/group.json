@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "3E4A24F3-37DE-4121-95EA-75ADBFF8B896",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FC77C40-A96F-4A5C-B031-7B3626558DBA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1000997A-82B6-462A-A34B-1844E6C2E691",
+    "height": 19,
+    "width": 14,
+    "x": 37.58064246452316,
+    "y": 23.14229381447868
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3FF80F26-7472-4677-B8EB-C54C2829BD7B"
+    }
+  ],
+  "name": "Red Card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39433DF9-44AB-46B9-9EEA-BC757FA1873C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

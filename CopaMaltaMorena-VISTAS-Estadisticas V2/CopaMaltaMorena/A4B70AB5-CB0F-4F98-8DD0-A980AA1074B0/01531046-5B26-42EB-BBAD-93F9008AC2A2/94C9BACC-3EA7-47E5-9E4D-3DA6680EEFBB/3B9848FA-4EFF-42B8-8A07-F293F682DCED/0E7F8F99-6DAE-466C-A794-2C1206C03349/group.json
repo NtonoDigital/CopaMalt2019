@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "0E7F8F99-6DAE-466C-A794-2C1206C03349",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3680C2A-629B-4E89-913E-78D5239BA490",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19E5E26A-711A-432C-92CD-FCBF8941B7B1",
+    "height": 33,
+    "width": 877,
+    "x": 1.133705949619805,
+    "y": 85.320217953315
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B2F866B2-FC16-451D-9F6A-F803E57224CC"
+    },
+    {
+      "class": "text",
+      "id": "7A49C107-6A5E-49D0-BAEF-7DDF19977A8A"
+    },
+    {
+      "class": "text",
+      "id": "1824764E-8946-4025-B214-D5EE37F15EC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C78087F-9F27-4504-AAD5-D09F3AA3D834"
+    }
+  ],
+  "name": "Match Top Info",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF8D85BD-9738-4936-87B1-C0DCB08E6124",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

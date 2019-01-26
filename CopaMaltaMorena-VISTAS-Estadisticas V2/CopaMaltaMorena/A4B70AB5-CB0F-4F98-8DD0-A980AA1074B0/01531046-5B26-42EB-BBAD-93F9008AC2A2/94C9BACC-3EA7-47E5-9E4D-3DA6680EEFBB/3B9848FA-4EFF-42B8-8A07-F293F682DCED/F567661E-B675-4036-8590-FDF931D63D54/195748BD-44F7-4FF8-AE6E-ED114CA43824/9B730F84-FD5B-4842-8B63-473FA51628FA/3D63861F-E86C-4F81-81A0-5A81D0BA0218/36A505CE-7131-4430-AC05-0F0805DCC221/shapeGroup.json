@@ -1,0 +1,75 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "36A505CE-7131-4430-AC05-0F0805DCC221",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACD5FCC3-D68D-4047-A714-082C856C7609",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F6B31BB-EB45-49C6-9EB7-270031B6EA99",
+    "height": 22.67159085735262,
+    "width": 2.73951011643998,
+    "x": 25.41371295247263,
+    "y": 16.46066661243016
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "12EDADB4-B601-41A1-9504-9E5A021A0A7F"
+    }
+  ],
+  "name": "Side Shadow Detail",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6076F76E-3EE8-49DE-9274-3D441958FAB9",
+      "opacity": 0.15
+    },
+    "do_objectID": "C00F3D21-1BB9-40F5-BA57-360D921CD1CB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

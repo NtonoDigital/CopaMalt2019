@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "E0F94827-A4D0-4945-97B8-C23EE370AF40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B40C453E-7D9B-4797-B1BB-CA4923B7420C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB823BEA-C2E4-4F11-A903-C2FDF262B056",
+    "height": 29,
+    "width": 204,
+    "x": 0.4129740930174942,
+    "y": 211.3966580935127
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2E6D0AB3-F0A3-4BA2-B554-CFE81A6C351C"
+    },
+    {
+      "class": "group",
+      "id": "2E181941-C90A-4727-8979-F2D03FC42C7F"
+    },
+    {
+      "class": "text",
+      "id": "831F0343-7D61-4A56-93BB-47A0D31658F1"
+    }
+  ],
+  "name": "Offsides",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0D89254-6347-4F55-9197-DB95C4D8DF6D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

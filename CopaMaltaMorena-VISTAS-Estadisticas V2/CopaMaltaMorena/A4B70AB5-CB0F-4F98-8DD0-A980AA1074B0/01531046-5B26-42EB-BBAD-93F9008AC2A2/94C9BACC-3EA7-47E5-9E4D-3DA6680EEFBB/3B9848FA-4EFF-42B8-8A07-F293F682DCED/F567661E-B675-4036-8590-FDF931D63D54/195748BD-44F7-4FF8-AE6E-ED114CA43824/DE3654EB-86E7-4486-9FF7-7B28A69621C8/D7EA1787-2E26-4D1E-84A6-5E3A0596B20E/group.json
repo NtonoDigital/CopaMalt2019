@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "D7EA1787-2E26-4D1E-84A6-5E3A0596B20E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB67C038-C803-4D50-A8C1-7E8137BF65B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CF82F46-8E5E-4DFC-AEFE-7E247CA1A22F",
+    "height": 30,
+    "width": 47,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "793B325B-7E53-477E-AD97-66C04BE229F3"
+    },
+    {
+      "class": "text",
+      "id": "4EDB07F6-988A-456B-8B62-B74937C9C8D7"
+    }
+  ],
+  "name": "Game Minutes",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0DDCAFCD-B749-49FD-99D2-62FEAB16B40C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

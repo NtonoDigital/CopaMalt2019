@@ -1,0 +1,69 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "776B5918-2D9C-469A-9EF4-CD8396A4002C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37D8B41C-499D-474A-BC1D-8DCEE19956EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07B41971-E9EF-430C-9C3E-0C2A7F4136E4",
+    "height": 2.267703432122345,
+    "width": 6.797143357446718,
+    "x": 5.883291041525062,
+    "y": 0.2203972213392238
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E8201CAB-8F1D-4E37-B016-B11F8077A90B"
+    }
+  ],
+  "name": "Rectángulo 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "648ED34E-94D8-485C-9758-9ED7E23EB5F4",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.78431374,
+          "green": 0.75686276,
+          "red": 0.7294118
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

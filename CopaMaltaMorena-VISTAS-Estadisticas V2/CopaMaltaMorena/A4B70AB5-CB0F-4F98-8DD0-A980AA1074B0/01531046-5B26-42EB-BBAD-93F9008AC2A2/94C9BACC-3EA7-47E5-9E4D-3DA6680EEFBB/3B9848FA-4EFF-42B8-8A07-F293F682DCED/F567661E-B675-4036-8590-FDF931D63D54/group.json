@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "F567661E-B675-4036-8590-FDF931D63D54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAD77D0A-1F2B-409F-891D-13CAF486A4C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97A0C19C-F3F7-4DCF-BF97-B11A154340C5",
+    "height": 264,
+    "width": 877,
+    "x": 1.133705949619805,
+    "y": 879.6518755803207
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CC001F51-AFBE-4DB6-B1D7-D5DE979AE40F"
+    },
+    {
+      "class": "group",
+      "id": "195748BD-44F7-4FF8-AE6E-ED114CA43824"
+    }
+  ],
+  "name": "Game Timeline",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE1DF151-48F9-49FF-9EDB-4D941B8569FF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
