@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -52,10 +52,6 @@
     {
       "class": "symbolInstance",
       "id": "22A43611-608E-4149-BEA3-8396DAB8BC20"
-    },
-    {
-      "class": "bitmap",
-      "id": "4CB07A18-8EB5-414B-BC40-0C10266DE5CA"
     },
     {
       "class": "group",
@@ -76,6 +72,10 @@
     {
       "class": "group",
       "id": "2D25F633-9A5D-4AEF-99D1-DB2162BACD3B"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "CD6AD480-12D1-47AC-B061-5CDE6DD6F5C3"
     },
     {
       "class": "group",
@@ -111,10 +111,6 @@
     },
     {
       "class": "MSImmutableHotspotLayer",
-      "id": "40589C55-F624-4F35-84A4-87CDCC3BC30D"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
       "id": "4D5F0D4B-E88E-460B-A394-AD1052A21D4D"
     },
     {
@@ -136,6 +132,14 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "79482F83-E64A-4628-8359-C5DC29398BA7"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "95EED77E-6B31-4036-A3B6-943B6140F1E0"
+    },
+    {
+      "class": "bitmap",
+      "id": "8656C89D-F1F7-4790-B60E-C3CC4C369607"
     }
   ],
   "name": "G-Resultado",

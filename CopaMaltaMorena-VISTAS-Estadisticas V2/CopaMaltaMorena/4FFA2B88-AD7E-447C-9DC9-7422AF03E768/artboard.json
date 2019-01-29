@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B4CD8C47-03DC-411E-A7CF-2181847E8338",
-    "height": 2434,
+    "height": 2280,
     "width": 1440,
     "x": 14147,
     "y": 4650
@@ -55,7 +55,7 @@
     },
     {
       "class": "bitmap",
-      "id": "D520AA20-2535-44BB-80E6-5624EF47069B"
+      "id": "87777B02-9283-44D1-8D80-2C4245F73630"
     },
     {
       "class": "group",
@@ -82,14 +82,6 @@
       "id": "8055CC39-FCC7-4103-BF81-5C657343BAFA"
     },
     {
-      "class": "bitmap",
-      "id": "7AF24DF9-1D82-488C-B324-0F9E80F5E420"
-    },
-    {
-      "class": "group",
-      "id": "CC049FA7-0CB3-46DC-8F3F-803143526B2E"
-    },
-    {
       "class": "MSImmutableHotspotLayer",
       "id": "DAAAC0D2-EF14-4264-BCCC-83ABF006F9F4"
     },
@@ -100,10 +92,6 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "197D4B65-5FE7-47B8-8901-8D72F7D419AE"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "5A7BC51C-471C-41D1-AC5D-2CE9683B6FC4"
     },
     {
       "class": "MSImmutableHotspotLayer",
@@ -126,18 +114,6 @@
       "id": "126355EF-F539-4995-AE71-1C317917FEB1"
     },
     {
-      "class": "group",
-      "id": "4DE9FAA1-A115-4039-91B5-47E7224C4C60"
-    },
-    {
-      "class": "group",
-      "id": "865CCF6F-B18F-45FC-B54C-D2D9EA5415DA"
-    },
-    {
-      "class": "text",
-      "id": "1AABD01C-CFB7-4983-9B03-E5D69E8C0F73"
-    },
-    {
       "class": "MSImmutableHotspotLayer",
       "id": "6F0533E9-6ED5-4BD7-8788-4FB751AF4983"
     },
@@ -148,6 +124,18 @@
     {
       "class": "group",
       "id": "30C43EE9-CE02-4FF4-B7EE-49411F46E9FD"
+    },
+    {
+      "class": "group",
+      "id": "7E2A9BDA-9798-4872-94A5-47C32D9A55B7"
+    },
+    {
+      "class": "group",
+      "id": "3443DEE7-FDB7-4298-9912-7A56C4BBA70B"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "2E33E9A9-D579-4D6C-B16C-0E9D4CE29391"
     }
   ],
   "name": "G-Equipos",

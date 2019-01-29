@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -54,12 +54,72 @@
       "id": "F485D130-6752-438F-BE08-2DC24B31BCC1"
     },
     {
-      "class": "bitmap",
-      "id": "1DEC29F0-9D0F-4FB2-B6DA-09FD2F1D3D47"
+      "class": "group",
+      "id": "099E3B34-FEC8-42D5-B35C-8DB3997D033D"
     },
     {
       "class": "group",
-      "id": "099E3B34-FEC8-42D5-B35C-8DB3997D033D"
+      "id": "08BEDC45-8F97-47CC-8904-B259061F14A0"
+    },
+    {
+      "class": "group",
+      "id": "1D71F93D-C912-4CA6-A424-B2CF5A26120F"
+    },
+    {
+      "class": "group",
+      "id": "C52F6472-3926-41C3-9FCF-AB7F93E31A6B"
+    },
+    {
+      "class": "group",
+      "id": "691CBB11-B8C8-492C-AE96-5751E234F7EE"
+    },
+    {
+      "class": "group",
+      "id": "D50668D1-FF74-49C3-BB50-1DCF794C5AE3"
+    },
+    {
+      "class": "group",
+      "id": "B5DFF62E-5E43-4F9E-A40F-8F442FF53364"
+    },
+    {
+      "class": "group",
+      "id": "3F5B7EFE-C156-4191-90E0-49D4FDDAF505"
+    },
+    {
+      "class": "group",
+      "id": "9C1B8505-527F-4837-8C49-6A656362CB1C"
+    },
+    {
+      "class": "group",
+      "id": "C7974219-FA79-44E7-B908-2C8CC4A39FCC"
+    },
+    {
+      "class": "group",
+      "id": "47573E3B-6DF2-4E38-85F2-21CBB9220888"
+    },
+    {
+      "class": "group",
+      "id": "E1FB802F-1D3C-4731-8704-E9EB359B8809"
+    },
+    {
+      "class": "group",
+      "id": "7B3229A5-0564-4C42-8874-B9FAAED7954F"
+    },
+    {
+      "class": "group",
+      "id": "F4AEF7FC-8E17-482D-9BE6-33515FFE78EC"
+    },
+    {
+      "class": "group",
+      "id": "751DB2E4-5B07-48AF-A452-0110319C2612"
+    },
+    {
+      "class": "group",
+      "id": "486B3E5A-0546-4E69-B0D8-01F22E072A49"
+    },
+    {
+      "class": "group",
+      "id": "BF54B1E6-5550-4975-8EBE-48F14D524B5F"
     },
     {
       "class": "group",
@@ -99,10 +159,6 @@
     },
     {
       "class": "MSImmutableHotspotLayer",
-      "id": "A007DE1F-0443-4A1F-9501-8BBA9EF97E68"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
       "id": "0222A813-5E32-4834-88C5-314CC0A95739"
     },
     {
@@ -119,7 +175,23 @@
     },
     {
       "class": "group",
-      "id": "CEE4EECE-3A00-463E-B83A-662C9CE8BA99"
+      "id": "6F2EFBCC-903D-4EB8-B5C7-C3A05544741A"
+    },
+    {
+      "class": "group",
+      "id": "EB435419-3057-425B-99D5-F3F5DA8345BA"
+    },
+    {
+      "class": "group",
+      "id": "2B66DD82-9B54-4703-8318-BA26CBF9CC38"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "4BD99486-E205-41CC-BB69-FE01982826D7"
+    },
+    {
+      "class": "bitmap",
+      "id": "00490A96-ACAD-401B-B392-E7DC4B483F24"
     }
   ],
   "name": "G-Jugadores",

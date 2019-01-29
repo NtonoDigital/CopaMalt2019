@@ -43,15 +43,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "0221A2E4-36EB-498B-9C27-BA5959C2AFD4"
-    },
-    {
-      "class": "bitmap",
-      "id": "2094004E-C2E4-4DB9-812E-F02427EE88FA"
     },
     {
       "class": "group",
@@ -104,6 +100,14 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "1904D702-DCEF-4B03-87AB-0F7669D872F0"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "4D4C79C1-A7DE-4068-95D6-EED0F80ED92B"
+    },
+    {
+      "class": "bitmap",
+      "id": "A0B6D8A5-21CF-419F-A998-CCCDD8A1A86D"
     }
   ],
   "name": "G-Ranking - Juga- ver mas",

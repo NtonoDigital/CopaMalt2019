@@ -50,10 +50,6 @@
       "id": "64B7B34B-F93D-4F4B-9761-399179213E78"
     },
     {
-      "class": "bitmap",
-      "id": "951734E9-A3EE-4B0E-A2A1-2EA55383A46F"
-    },
-    {
       "class": "shapePath",
       "id": "406E5272-6273-4C96-8E81-F66DD666469C"
     },
@@ -99,10 +95,6 @@
     },
     {
       "class": "MSImmutableHotspotLayer",
-      "id": "E078825A-5537-4A7D-9E2C-C1EEBC8EBE73"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
       "id": "5254C609-B33A-4B49-A42F-4194B42F1173"
     },
     {
@@ -126,8 +118,20 @@
       "id": "451FA1BA-C692-4B06-B400-82E715166693"
     },
     {
+      "class": "group",
+      "id": "5AD468BE-940E-4E83-A6BC-BCCC5DCEC2EE"
+    },
+    {
+      "class": "group",
+      "id": "585333AD-C27A-4C9D-B72D-3EA7546B9851"
+    },
+    {
       "class": "MSImmutableHotspotLayer",
-      "id": "EE9335A9-F4B2-445D-B58A-CA128BC5D97F"
+      "id": "416EC38B-CE8E-465C-BE7D-4714ACFEF37C"
+    },
+    {
+      "class": "bitmap",
+      "id": "06AC3DC7-D080-493B-8638-0CB74AA7F357"
     }
   ],
   "name": "G-Calendario",
